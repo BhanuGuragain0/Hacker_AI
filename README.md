@@ -1,5 +1,4 @@
 
-```markdown
 <p align="center">
   <img src="https://via.placeholder.com/150x150.png?text=Hacker_AI" alt="Hacker_AI Logo" width="150"/>
 </p>
@@ -32,7 +31,8 @@
   </a>
 </p>
 
----
+```markdown
+
 
 ## What is Hacker_AI?
 

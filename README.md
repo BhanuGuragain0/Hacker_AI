@@ -213,10 +213,10 @@ I’m Bhanu Guragain, a BSc Ethical Hacking & Cybersecurity student at Coventry 
 - **Email**: [guragainbhanu802@gmail.com](mailto:guragainbhanu802@gmail.com)  
 - **Issues**: [File a ticket](https://github.com/BhanuGuragain0/Hacker_AI/issues)  
 
----
+
 
 <p align="center">
   <em>Hacker_AI: Where a Coventry Student’s Vision Meets the Edge of Security.</em>
 </p>
-```
+
 

@@ -31,6 +31,7 @@
   </a>
 </p>
 
+---
 ```markdown
 
 
@@ -60,26 +61,211 @@ Step into the frontier of cybersecurity with **Hacker_AI**, an AI-powered toolki
 
 ## 🚀 Project Structure
 
-Hacker_AI is a masterpiece of organization—built for power and clarity:
 
 ```
-Hacker_AI/
-├── analytics/         # Decode threats with data
-├── backend/          # The AI brain and secure APIs
-│   ├── ai_engine/   # Where hacking meets intelligence
-│   ├── api/         # Endpoints that scale and protect
-│   └── core/        # Unbreakable foundations
-├── config/           # Settings that flex
-├── data/            # Secure resources, encrypted
-├── deployment/      # Deploy anywhere, anytime
-├── frontend/        # Command it your way
-├── logs/           # See every move
-├── plugins/        # Build your own edge
-├── sandbox/        # Experiment without limits
-├── scripts/        # Automate the grind
-├── tests/          # Prove it works
-├── tools/          # Old-school meets new-school
-└── .github/        # CI/CD that never sleeps
+Below is the extracted structure of your `Hacker_AI` project, focusing solely on folders and important files from your `tree -a` output. I’ve followed the requested format with emojis (`📂` for folders, `📜` for files), including only key files that serve as entry points, critical logic, or configuration, while omitting less significant or redundant files for brevity (e.g., excluding all wordlists except encrypted ones, or all tool wrappers except a few notables).
+
+---
+
+```
+
+📂 **Hacker_AI**                          <-- Repository root for an AI-driven cybersecurity toolkit  
+├── 📜 **README.md**                      <-- Project overview and usage guide  
+├── 📜 **requirements.txt**               <-- List of Python dependencies  
+├── 📜 **LICENSE**                       <-- Open-source license (e.g., MIT)  
+├── 📜 **launcher.py**                   <-- Main entry point to launch the toolkit  
+├── 📜 **CHANGELOG.md**                  <-- Tracks project versions and updates  
+├── 📜 **pyproject.toml**                <-- Python project metadata and build config  
+├── 📜 **.gitignore**                    <-- Git ignore rules  
+│  
+├── 📂 **analytics**                     <-- Tools for data analysis and reporting  
+│   ├── 📜 **__init__.py**               <-- Marks directory as a Python package  
+│   ├── 📜 **dashboard.py**              <-- Generates analytics dashboards  
+│  
+├── 📂 **backend**                       <-- Core logic, AI engines, and APIs  
+│   ├── 📜 **__init__.py**               <-- Initializes backend package  
+│   ├── 📂 **ai_engine**                <-- AI-driven hacking components  
+│   │   ├── 📜 **__init__.py**           <-- Package marker  
+│   │   ├── 📂 **evasion**              <-- Stealth and evasion techniques  
+│   │   │   └── 📜 **evasion.py**       <-- Implements AI-driven evasion logic  
+│   │   ├── 📂 **exploitation**         <-- Exploit generation and automation  
+│   │   │   ├── 📜 **exploit.py**       <-- Generates exploits using AI  
+│   │   │   └── 📜 **auto_learning.py** <-- Self-improving exploit algorithms  
+│   │   ├── 📂 **zero_day**             <-- Zero-day vulnerability detection  
+│   │   │   ├── 📜 **predictor.py**     <-- Predicts potential zero-days  
+│   │   │   ├── 📜 **zero_day_hunter.py** <-- Hunts for novel threats  
+│   │   │   └── 📜 **__init__.py**      <-- Package marker  
+│   │   ├── 📂 **models**               <-- AI model definitions  
+│   │   │   ├── 📜 **base_model.py**    <-- Base AI model class  
+│   │   │   └── 📜 **__init__.py**      <-- Package marker  
+│   │   ├── 📂 **pre_trained_models**   <-- Pre-trained AI models  
+│   │   │   ├── 📜 **codebert_base.pt** <-- Pre-trained CodeBERT model  
+│   │   │   └── 📜 **__init__.py**      <-- Package marker  
+│   ├── 📂 **api**                     <-- RESTful API for toolkit interaction  
+│   │   ├── 📜 **__init__.py**          <-- Package marker  
+│   │   ├── 📜 **server.py**            <-- Main API server (e.g., FastAPI)  
+│   │   ├── 📜 **auth.py**              <-- Authentication for API access  
+│   │   ├── 📂 **routes**               <-- API endpoint definitions  
+│   │   │   ├── 📜 **exploit.py**       <-- Exploit request handling  
+│   │   │   ├── 📜 **intelligence.py**  <-- Threat intelligence endpoints  
+│   │   │   └── 📜 **__init__.py**      <-- Package marker  
+│   │   ├── 📂 **middleware**           <-- API middleware for security/control  
+│   │   │   ├── 📜 **error_handler.py** <-- Custom error handling  
+│   │   │   ├── 📜 **input_validation.py** <-- Validates API inputs  
+│   │   │   └── 📜 **__init__.py**      <-- Package marker  
+│   │   ├── 📂 **monitoring**           <-- Health and metrics endpoints  
+│   │   │   ├── 📜 **health.py**        <-- Health check endpoint  
+│   │   │   └── 📜 **__init__.py**      <-- Package marker  
+│   ├── 📂 **core**                    <-- Core infrastructure and security  
+│   │   ├── 📜 **__init__.py**          <-- Package marker  
+│   │   ├── 📜 **architecture.py**      <-- System architecture definitions  
+│   │   ├── 📂 **security**             <-- Security utilities  
+│   │   │   ├── 📜 **authentication.py** <-- User authentication logic  
+│   │   │   ├── 📜 **encryption.py**    <-- Cryptographic functions  
+│   │   │   └── 📜 **__init__.py**      <-- Package marker  
+│   │   ├── 📂 **self_healing**         <-- Self-healing mechanisms  
+│   │   │   ├── 📜 **anomaly_detector.py** <-- Detects anomalies  
+│   │   │   └── 📜 **__init__.py**      <-- Package marker  
+│  
+├── 📂 **benchmarks**                    <-- Performance and security benchmarks  
+│   ├── 📜 **__init__.py**               <-- Package marker  
+│   ├── 📜 **penetration.py**            <-- Penetration testing benchmarks  
+│  
+├── 📂 **config**                        <-- Configuration files and settings  
+│   ├── 📜 **__init__.py**               <-- Package marker  
+│   ├── 📜 **app_config.yaml**           <-- Base application configuration  
+│   ├── 📜 **logging.yaml**              <-- Logging configuration  
+│   ├── 📜 **README.md**                 <-- Config usage guide  
+│   ├── 📂 **env**                      <-- Environment-specific configs  
+│   │   ├── 📂 **dev**                  <-- Development environment  
+│   │   │   ├── 📜 **app_config.yaml**  <-- Dev-specific overrides  
+│   │   │   └── 📜 **secrets.env**      <-- Sensitive env variables  
+│   │   ├── 📂 **prod**                 <-- Production environment  
+│   │   │   ├── 📜 **app_config.yaml**  <-- Prod-specific overrides  
+│   │   │   └── 📜 **secrets.env**      <-- Sensitive env variables  
+│   │   └── 📜 **__init__.py**          <-- Package marker  
+│  
+├── 📂 **data**                          <-- Data storage and resources  
+│   ├── 📜 **__init__.py**               <-- Package marker  
+│   ├── 📜 **README.md**                 <-- Data usage guide  
+│   ├── 📂 **db**                       <-- Database-related files  
+│   │   ├── 📜 **database.py**           <-- Database interaction logic  
+│   │   └── 📜 **__init__.py**          <-- Package marker  
+│   ├── 📂 **migrations**               <-- Database schema migrations  
+│   │   ├── 📜 **001_initial_schema.sql** <-- Initial schema setup  
+│   │   └── 📜 **__init__.py**          <-- Package marker  
+│   ├── 📂 **wordlists**                <-- Wordlists for attacks  
+│   │   ├── 📜 **dirs_big.enc**         <-- Encrypted directory wordlist  
+│   │   ├── 📜 **subdomains.enc**       <-- Encrypted subdomain wordlist  
+│   │   └── 📜 **__init__.py**          <-- Package marker  
+│  
+├── 📂 **deployment**                    <-- Deployment configurations  
+│   ├── 📜 **__init__.py**               <-- Package marker  
+│   ├── 📜 **README.md**                 <-- Deployment instructions  
+│   ├── 📂 **docker**                   <-- Docker deployment files  
+│   │   ├── 📂 **backend**              <-- Backend container setup  
+│   │   │   ├── 📜 **Dockerfile**       <-- Backend Docker image  
+│   │   │   └── 📜 **docker-compose.yml** <-- Backend service composition  
+│   │   ├── 📂 **frontend**             <-- Frontend container setup  
+│   │   │   ├── 📜 **Dockerfile**       <-- Frontend Docker image  
+│   │   │   └── 📜 **docker-compose.yml** <-- Frontend service composition  
+│   │   └── 📜 **__init__.py**          <-- Package marker  
+│   ├── 📂 **kubernetes**               <-- Kubernetes deployment files  
+│   │   ├── 📜 **backend_deployment.yaml** <-- Backend K8s deployment  
+│   │   └── 📜 **__init__.py**          <-- Package marker  
+│  
+├── 📂 **docs**                          <-- Project documentation  
+│   ├── 📜 **__init__.py**               <-- Package marker  
+│   ├── 📜 **README.md**                 <-- Docs overview  
+│   ├── 📜 **api.md**                    <-- API documentation  
+│   ├── 📜 **deployment.md**             <-- Deployment guide  
+│   ├── 📜 **Developer_Guides.md**       <-- Developer and usage guide  
+│  
+├── 📂 **frontend**                      <-- User interfaces (CLI, GUI, Web)  
+│   ├── 📜 **__init__.py**               <-- Package marker  
+│   ├── 📂 **cli**                      <-- Command-line interfaces  
+│   │   ├── 📜 **__init__.py**          <-- Package marker  
+│   │   ├── 📜 **main_cli.py**          <-- Main CLI entry point  
+│   │   ├── 📜 **README.md**            <-- CLI usage guide  
+│   │   ├── 📂 **tool_clis**            <-- Tool-specific CLI wrappers  
+│   │   │   ├── 📜 **nmap_cli.py**      <-- Nmap CLI wrapper  
+│   │   │   └── 📜 **__init__.py**      <-- Package marker  
+│   ├── 📂 **gui**                      <-- Graphical user interfaces  
+│   │   ├── 📜 **dashboard.py**         <-- Main GUI dashboard  
+│   │   └── 📜 **__init__.py**          <-- Package marker  
+│   ├── 📂 **web_ui**                   <-- Web-based interface (JavaScript)  
+│   │   ├── 📜 **App.js**               <-- Main web app script  
+│   │   ├── 📜 **index.js**             <-- Web app entry point  
+│   │   ├── 📂 **api**                  <-- Web API handlers  
+│   │   │   ├── 📜 **feedback_api.py**  <-- Feedback endpoint  
+│   │   │   └── 📜 **__init__.py**      <-- Package marker  
+│   │   ├── 📂 **components**           <-- React-like UI components  
+│   │   │   ├── 📜 **user_management.js** <-- User management UI  
+│   │   └── 📂 **styles**               <-- Web UI styles  
+│   │       ├── 📜 **accessibility.css** <-- CSS for accessibility  
+│   │       └── 📜 **__init__.py**      <-- Package marker  
+│  
+├── 📂 **logs**                          <-- Centralized logging storage  
+│   ├── 📜 **README.md**                 <-- Logging guide  
+│   └── 📜 **.gitkeep**                  <-- Ensures directory is tracked  
+│  
+├── 📂 **plugins**                       <-- Extensible plugin system  
+│   ├── 📜 **__init__.py**               <-- Package marker  
+│   ├── 📜 **README.md**                 <-- Plugin development guide  
+│   ├── 📂 **tools_plugin**             <-- Example plugin  
+│   │   ├── 📜 **plugin.py**            <-- Plugin implementation  
+│   │   └── 📜 **__init__.py**          <-- Package marker  
+│  
+├── 📂 **sandbox**                       <-- Experimental features  
+│   ├── 📜 **__init__.py**               <-- Package marker  
+│   ├── 📜 **README.md**                 <-- Sandbox usage guide  
+│   ├── 📜 **experimental_feature.py**   <-- Experimental code  
+│  
+├── 📂 **scripts**                       <-- Automation scripts  
+│   ├── 📜 **__init__.py**               <-- Package marker  
+│   ├── 📜 **README.md**                 <-- Script usage guide  
+│   ├── 📜 **deploy.sh**                 <-- Deploys the toolkit  
+│   ├── 📜 **setup.sh**                  <-- Sets up environment  
+│  
+├── 📂 **tests**                         <-- Test suite for validation  
+│   ├── 📜 **__init__.py**               <-- Package marker  
+│   ├── 📜 **README.md**                 <-- Testing instructions  
+│   ├── 📂 **ai_engine**                <-- AI engine tests  
+│   │   ├── 📜 **test_evasion.py**      <-- Tests evasion logic  
+│   │   └── 📜 **__init__.py**          <-- Package marker  
+│   ├── 📂 **api**                      <-- API tests  
+│   │   ├── 📜 **test_routes.py**       <-- Tests API routes  
+│   │   └── 📜 **__init__.py**          <-- Package marker  
+│  
+├── 📂 **tools**                         <-- Wrappers for external tools  
+│   ├── 📜 **__init__.py**               <-- Package marker  
+│   ├── 📂 **information_gathering**    <-- Reconnaissance tools  
+│   │   ├── 📜 **nmap_warper.py**       <-- Nmap integration  
+│   │   └── 📜 **__init__.py**          <-- Package marker  
+│   ├── 📂 **exploitation**             <-- Exploitation tools  
+│   │   ├── 📜 **metasploit_warper.py** <-- Metasploit wrapper  
+│   │   └── 📜 **__init__.py**          <-- Package marker  
+│  
+└── 📂 **.github**                       <-- CI/CD and automation configs  
+    ├── 📜 **dependabot.yml**            <-- Dependency update automation  
+    └── 📂 **workflows**                 <-- GitHub Actions workflows  
+        ├── 📜 **ci.yml**                <-- Continuous integration  
+        ├── 📜 **cd.yml**                <-- Continuous deployment  
+        └── 📜 **security_scan.yml**     <-- Security scanning  
+
+---
+
+### **Selection Criteria**
+- **Folders**: Included all directories to reflect the full structure.
+- **Important Files**: Selected based on:
+  - **Entry Points**: `launcher.py`, `server.py`, `main_cli.py`, `App.js`.
+  - **Core Logic**: `exploit.py`, `zero_day_hunter.py`, `evasion.py`, `encryption.py`.
+  - **Configs**: `app_config.yaml`, `logging.yaml`, `secrets.env`.
+  - **Docs**: `README.md`, `api.md`, `Developer_Guides.md`.
+  - **Notable Tools**: `nmap_warper.py`, `metasploit_warper.py` as examples.
+- **Excluded**: Redundant or less critical files (e.g., most wordlists, all `tool_clis/` except `nmap_cli.py`).
+
+This streamlined view highlights the essentials while keeping the structure navigable. Let me know if you’d like to adjust the file selection or proceed with updating your README.md with this!
 ```
 
 **Want More?** Dive into [Developer Guide](./docs/dev_guide.md).
@@ -213,10 +399,10 @@ I’m Bhanu Guragain, a BSc Ethical Hacking & Cybersecurity student at Coventry 
 - **Email**: [guragainbhanu802@gmail.com](mailto:guragainbhanu802@gmail.com)  
 - **Issues**: [File a ticket](https://github.com/BhanuGuragain0/Hacker_AI/issues)  
 
-
+---
 
 <p align="center">
   <em>Hacker_AI: Where a Coventry Student’s Vision Meets the Edge of Security.</em>
 </p>
-
+```
 

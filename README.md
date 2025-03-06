@@ -34,27 +34,6 @@
 
 ---
 
-## Table of Contents
-
-- [What is Hacker_AI?](#what-is-hacker_ai)
-- [Key Features](#key-features)
-- [Project Structure](#project-structure)
-- [System Requirements](#system-requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [Troubleshooting](#troubleshooting)
-- [Roadmap](#roadmap)
-- [Why Hacker_AI?](#why-hacker_ai)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
-
----
-
 ## What is Hacker_AI?
 
 **Hacker_AI** is a cutting-edge, AI-powered cybersecurity toolkit designed to empower ethical hackers, security researchers, and defenders. Created by Bhanu Guragain, a BSc Ethical Hacking & Cybersecurity student at Coventry University, this project blends academic rigor with real-world innovation. It leverages advanced AI models, self-healing systems, and a rich ecosystem of integrated tools to perform tasks like vulnerability assessment, zero-day hunting, and automated exploitation—all with precision and scalability.

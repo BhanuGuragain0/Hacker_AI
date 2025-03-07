@@ -36,7 +36,6 @@
 </p>
 
 ```markdown
----
 
 ## 🌐 What is Hacker_AI?
 
@@ -67,7 +66,7 @@ From predicting vulnerabilities with `zero_day_hunter.py` to orchestrating attac
 
 Here’s the full breakdown of the `Hacker_AI` directory structure—100+ directories, 305+ files powering an AI-driven cybersecurity beast:
 
-```bash
+```
 Hacker_AI/
 ├── analytics/                          # Data analysis and visualization hub
 │   ├── dashboard.py                   # Interactive analytics dashboards

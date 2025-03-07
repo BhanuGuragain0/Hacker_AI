@@ -45,7 +45,6 @@ From predicting vulnerabilities with `zero_day_hunter.py` to orchestrating attac
 
 > **Why Me?** I’m Bhanu Guragain—a student obsessed with blending theory and practice to push cybersecurity boundaries.
 
----
 
 ## ✨ Killer Features
 

@@ -59,7 +59,7 @@ From predicting vulnerabilities with `zero_day_hunter.py` to orchestrating attac
 | **Quantum-Ready Crypto**  | Future-proof security for a post-quantum world.     | `backend/core/security/encryption.py`   |
 | **Scalable Deployment**   | From laptops to Kubernetes clusters.                | `deployment/`                           |
 | **Plugin Extensibility**  | Add your own tools or features effortlessly.        | `plugins/`                              |
-
+```
 ---
 
 ## 📂 Project Structure

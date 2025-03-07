@@ -278,9 +278,6 @@ Hacker_AI/
     └── [16 more categories]           # See full list in project this is huge project
 ```
 
-
-**Full Breakdown**: [Project Structure](./docs/project_structure.md)
-
 ---
 
 ## 💻 System Requirements
@@ -483,4 +480,3 @@ I’m Bhanu Guragain—let’s connect!
 <p align="center">
   <strong>Hacker_AI: Where Student Passion Meets Cybersecurity Innovation.</strong>
 </p>
-```

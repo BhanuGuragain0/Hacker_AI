@@ -64,7 +64,7 @@ From predicting vulnerabilities with `zero_day_hunter.py` to orchestrating attac
 
 ## 📂 Project Structure
 
-Here’s the full breakdown of the `Hacker_AI` directory structure—100+ directories, 305+ files powering an AI-driven cybersecurity beast:
+Here’s the `Hacker_AI` directory structure 100+ directories, 305+ files powering an AI-driven cybersecurity beast:
 
 ```bash
 Hacker_AI/
@@ -275,7 +275,7 @@ Hacker_AI/
     │   ├── aircrack_warper.py         # Aircrack-ng wrapper
     │   ├── kismet_warper.py           # Kismet wrapper
     │   └── wifite_warper.py           # Wifite wrapper
-    └── [16 more categories]           # See full list in docs/
+    └── [16 more categories]           # See full list in project this is huge project
 ```
 
 

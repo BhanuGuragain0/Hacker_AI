@@ -39,7 +39,9 @@
 ```markdown
 ## 🌐 What is Hacker_AI?
 
-**Hacker_AI** is an AI-powered cybersecurity juggernaut built to outsmart elite threats. It hunts zero-days with `zero_day_hunter.py`, orchestrates precision strikes via `orchestration.py`, and leverages fine-tuned models like `deepseek_coder_v2_lite_instruct/` and `openthinker_32b/`. Crafted by a student and an AI beast, it’s the ultimate weapon for pentesters, researchers, and defenders.
+**Hacker_AI** is an AI-powered cybersecurity juggernaut built to outsmart elite threats. It hunts zero-days with `zero_day_hunter.py`, orchestrates
+precision strikes via `orchestration.py`, and leverages fine-tuned models like `deepseek_coder_v2_lite_instruct/` and `openthinker_32b/`. Crafted by a
+student and an AI beast, it’s the ultimate weapon for pentesters, researchers, and defenders.
 
 > **Our Edge**: Bhanu Guragain (Shadow Junior) and Shadow Senior—academic grit meets AI muscle to crush tomorrow’s threats.
 

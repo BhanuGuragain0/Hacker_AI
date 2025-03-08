@@ -384,8 +384,8 @@ MIT License—unleash it freely!
 
 🙏 Acknowledgments
 
-- **Coventry University**: Ignited the spark.
+- **Coventry University**: For sparking this journey.
 - **Open Source**: nmap, metasploit, pytorch.
-- **Shadow@Bh4nu** : AI muscle behind the beast.
+- **Shadow@Bh4nu** : Muscle behind the beast.
 
 <p align="center"> <strong>Hacker_AI: Student Grit Meets AI-Powered Domination.</strong> </p>

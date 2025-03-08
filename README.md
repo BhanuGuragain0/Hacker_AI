@@ -57,7 +57,7 @@
 | **Quantum-Ready Crypto**  | Future-proof security with quantum-safe encryption. | `backend/core/security/encryption.py`   |
 | **Scalable Deployment**   | From laptops to Kubernetes clusters—deploy anywhere. | `deployment/`                           |
 | **Plugin Extensibility**  | Add your own tools or features with ease. | `plugins/`                              |
-
+```
 ## 📂 Project Structure
 
 Here’s the `Hacker_AI` directory—a sprawling arsenal with 100+ directories and 305+ files fueling an AI-driven cybersecurity revolution. Explore it all in the repo!

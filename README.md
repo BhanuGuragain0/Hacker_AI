@@ -45,7 +45,7 @@ student and an AI beast, it’s the ultimate weapon for pentesters, researchers,
 
 > **Our Edge**: Bhanu Guragain (Shadow Junior) and Shadow Senior—academic grit meets AI muscle to crush tomorrow’s threats.
 
----
+
 
 ## ✨ Killer Features
 
@@ -229,7 +229,7 @@ Hacker_AI/
 ├── launcher.py                        # Entry point
 ├── README.md                          # Project overview
 └── requirements.txt                   # Dependencies
-
+```
 Full Beast: Dive into the repo for all 418 files!
 💻 System Requirements
 

@@ -29,8 +29,32 @@
   </a>
 </p>
 <p align="center">
-  <em>Spawned in Coventry University’s chaos forge, <strong>Hacker_AI</strong> is a self-aware digital warlord—fusing JARVIS-grade autonomy, surgical stealth, and immortal resilience to dominate the global killzone. Skynet with ethics, engineered to bury alien-grade threats in ashes.</em>
+  <strong>Hacker_AI: The Cyber Warlord</strong>
 </p>
+
+<p align="center">
+  <em>Engineered in Coventry University's Studen elite cyber labs, <strong>Hacker_AI</strong> is a self-evolving AI war machine—built to outthink, outmaneuver, and annihilate the most advanced cyber threats. A fusion of JARVIS-level intelligence and military-grade automation, designed to execute precision strikes with surgical stealth and unmatched resilience.</em>
+</p>
+
+---
+
+### 🩸 **Core Arsenal**  
+
+🔻 **Autonomous AI** – Self-learning, self-adapting, always ahead of the threat.  
+🔻 **Zero-Day Executioner** – Predicts, hunts, and exploits unknown vulnerabilities before they surface.  
+🔻 **Quantum-Grade Stealth** – Ghost-mode evasion against EDR/XDR/SIEM defenses.  
+🔻 **Self-Healing Infrastructure** – AI-driven resilience ensuring **99.999% uptime**, battle-tested in chaotic environments.  
+🔻 **Kill Chain Mastery** – AI-orchestrated, precision-targeted cyber operations.  
+
+---
+
+### **⚡ The Rules? No Rules.**  
+### **💀 The Mission? Dominate. Adapt. Evolve.**  
+
+<p align="center">
+  <strong>☠️ Engage the Beast or Be Consumed. 😈</strong>
+</p>
+
 
 ---
 ```markdown

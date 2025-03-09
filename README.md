@@ -44,7 +44,8 @@
 `orchestration.py`, and leverages fine-tuned models such as `deepseek_coder_v2_lite_instruct` and `openthinker_32b` to dynamically coordinate and execute attacks. Born
 from academic rigor and battlefield innovation, it’s the ultimate weapon for pentesters, researchers, and defenders—ethically engineered and battle-proven.
 
-> **Our Edge**: Shadow Junior’s technical grit meets Shadow Senior’s AI muscle, combining state-of-the-art reinforcement learning, quantum-safe cryptography, and self-healing infrastructure to crush tomorrow’s threats today.
+> **Our Edge**: Shadow Junior’s technical grit meets Shadow Senior’s AI muscle, combining state-of-the-art reinforcement learning, quantum-safe cryptography, and self-healing
+infrastructure to crush tomorrow’s threats today.
 
 
 ## ✨ Killer Features

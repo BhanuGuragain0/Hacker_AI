@@ -319,7 +319,7 @@
 </details>
 
 ---
-💻 System Requirements
+### 💻 System Requirements
 🛠 Operating System
 
     Kali Linux (🔥The Beast😈) – Required for hacking, pentesting, and AI security operations

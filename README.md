@@ -339,23 +339,28 @@ it obliterates them today.
 ## ⚙️ Hardware Requirements
 
 🔹 Minimum 🥺🥺🥺🥺🥺🥺(For Basic Functionality)
+```bash
 💻 CPU: 4-core processor (Intel i5/Ryzen 5 or better)
 🧠 RAM: 8GB
 💾 Storage: 20GB SSD (for basic operations)
 🖥️ GPU: Not required but recommended for AI acceleration
+```
 
 🔹 Recommended 👿👿👿👿👿👿(For Advanced Pentesting & AI)
+```bash
 💻 CPU: 8-core processor (Intel i7/Ryzen 7 or better)
 🧠 RAM: 32GB (for better multitasking and AI processing)
 💾 Storage: 1TB NVMe SSD (faster I/O for AI models and datasets)
 🖥️ GPU: NVIDIA RTX 3050+ with CUDA 11+ (for AI-assisted hacking and deep learning models)
+```
 
 🔹 Full Power 😈💀👁️‍🗨️🏴‍☠️💣 (For AI-Driven Cybersecurity & Large Models)
+```bash
 💻 CPU: 8-core processor (Intel i7/Ryzen 7 or better)
 🧠 RAM: 32GB (for better multitasking and AI processing)
 💾 Storage: 1TB NVMe SSD (faster I/O for AI models and datasets)
 🖥️ GPU: NVIDIA RTX 3050+ with CUDA 11+ (for AI-assisted hacking and deep learning models)
-
+```
 ## 🔧 Prerequisites 🙇🙏(Must be in PATH)
 
     Nmap (Network scanning & reconnaissance)

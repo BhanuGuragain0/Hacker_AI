@@ -30,28 +30,28 @@
   <em>Born in Coventry University’s chaos forge, <strong>Hacker_AI</strong> is a JARVIS-grade platform—AI autonomy, stealth tactics, and self-healing resilience fused to dominate the digital battlefield.</em>
 </p>
 ---
-
+```markdown
 ## 🌐 What is Hacker_AI?
 
 **Hacker_AI** is an AI-powered cybersecurity juggernaut built to outsmart elite threats. It hunts zero-days with `zero_day_hunter.py`, orchestrates precision strikes via `orchestration.py`, and leverages fine-tuned models such as `deepseek_coder_v2_lite_instruct` and `openthinker_32b` to dynamically coordinate and execute attacks. Born from academic rigor and battlefield innovation, it’s the ultimate weapon for pentesters, researchers, and defenders—ethically engineered and battle-proven.
 
 > **Our Edge**: Shadow Junior’s technical grit meets Shadow Senior’s AI muscle, combining state-of-the-art reinforcement learning, quantum-safe cryptography, and self-healing infrastructure to crush tomorrow’s threats today.
 
----
 
 ## ✨ Killer Features
-
+ 
 | Feature                   | Why It Roars                                                                                                 | Dive In                                  |
 |---------------------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| **AI-Powered Offense**    | Autonomous exploit generation using `codebert_base.pt` & advanced PPO loops in `ai_decision.py`.             | [backend/ai_engine/exploitation/](./backend/ai_engine/exploitation/)        |
-| **Zero-Day Hunting**      | ML-driven threat prediction with real-time edge, courtesy of `zero_day_hunter.py`.                           | [backend/ai_engine/zero_day/](./backend/ai_engine/zero_day/)            |
-| **Self-Healing Core**     | Auto-recovery with anomaly detection (`self_heal_system.py`) ensuring 99.999% uptime.                        | [backend/core/self_healing/](./backend/core/self_healing/)             |
-| **Tool Arsenal**          | 30+ wrappers for tools like Nmap, Metasploit, and Hashcat, enhanced with quantum-optimized evasion.          | [tools/](./tools/)                                 |
-| **Orchestration Mastery** | Fine-tuned workflow orchestration with DAGs powered by Celery/Redis and advanced models (`openthinker_32b`). | [backend/core/orchestration/](./backend/core/orchestration/)            |
-| **Quantum-Safe Crypto**   | Future-proof encryption using AES-256-GCM & post-quantum algorithms.                                         | [backend/core/security/encryption.py](./backend/core/security/encryption.py)    |
-| **Scalable Power**        | Dockerized & Kubernetes-ready architecture for rapid, global deployment.                                     | [deployment/](./deployment/)                            |
-| **Plugin Freedom**        | Modular design allows community-driven extensions for unmatched versatility.                                 | [plugins/](./plugins/)                               |
-
+| **AI-Powered Offense**    | Autonomous exploit generation using `codebert_base.pt` & advanced PPO loops in `ai_decision.py`.             | `backend/ai_engine/exploitation/`        |
+| **Zero-Day Hunting**      | ML-driven threat prediction with real-time edge, courtesy of `zero_day_hunter.py`.                           | `backend/ai_engine/zero_day/`            |
+| **Self-Healing Core**     | Auto-recovery with anomaly detection (`self_heal_system.py`) ensuring 99.999% uptime.                        | `backend/core/self_healing/`             |
+| **Tool Arsenal**          | 30+ wrappers for tools like Nmap, Metasploit, and Hashcat, enhanced with quantum-optimized evasion.          | `tools/`                                 |
+| **Orchestration Mastery** | Fine-tuned workflow orchestration with DAGs powered by Celery/Redis and advanced models (`openthinker_32b`). | `backend/core/orchestration/`            |
+| **Quantum-Safe Crypto**   | Future-proof encryption using AES-256-GCM & post-quantum algorithms.                                         | `backend/core/security/encryption.py`    |
+| **Scalable Power**        | Dockerized & Kubernetes-ready architecture for rapid, global deployment.                                     | `deployment/`                            |
+| **Plugin Freedom**        | Modular design allows community-driven extensions for unmatched versatility.                                 | `plugins/`                               |
+|---------------------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------|
+```
 ---
 
 ## 📂 Project Structure
@@ -463,7 +463,7 @@ More: User Guide
     Models: Add .safetensors to backend/core/orchestration/.
     Tools: Update config/tools_config.json.
 
-🧪 Testing
+### 🧪 Testing
 
 Run all:
 bash
@@ -473,7 +473,7 @@ pytest tests/ -v --cov
     API: pytest tests/api/ (85% coverage)
     Benchmarks: python benchmarks/performance_benchmark.py
 
-🌐 Deployment
+### 🌐 Deployment
 Docker
 bash
 cd deployment/docker/backend
@@ -528,3 +528,4 @@ MIT License—unleash it freely!
 - **Shadow@Bh4nu** : Muscle behind the beast.
 
 <p align="center"> <strong>Hacker_AI: Student Grit Meets AI-Powered Domination.</strong> </p>
+

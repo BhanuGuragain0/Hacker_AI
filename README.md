@@ -1,6 +1,6 @@
 
 
-![My Logo](https://raw.githubusercontent.com/BhanuGuragain0/Hacker_AI/main/docs/assets/logo.png)
+<img src="https://raw.githubusercontent.com/BhanuGuragain0/Hacker_AI/main/docs/assets/logo.png" width="200">
 
 <h1 align="center">Hacker_AI</h1>
 <p align="center">

@@ -57,14 +57,16 @@
 
 ---
 ## 🌌 What is Hacker_AI?
+
 ```markdown
+**Hacker_AI** is the ultimate AI-powered cybersecurity juggernaut, designed to outsmart state-sponsored APTs,
+ransomware cartels, and zero-day exploits with quantum-grade precision.This ethical titan wields fine-tuned
+models like `deepseek_coder_v2_lite_instruct` and `openthinker_32b` to orchestrate chaos and strike with lethal
+accuracy. It’s not just a tool—it’sa production-grade kill machine for pentesters, researchers, and defenders,
+ready to claim cyber supremacy.
 
-**Hacker_AI** is the ultimate AI-powered cybersecurity juggernaut, designed to outsmart state-sponsored APTs, ransomware cartels, and zero-day exploits with quantum-grade precision.
-This ethical titan wields fine-tuned models like `deepseek_coder_v2_lite_instruct` and `openthinker_32b` to orchestrate chaos and strike with lethal accuracy. It’s not just a tool—it’s
-a production-grade kill machine for pentesters, researchers, and defenders, ready to claim cosmic supremacy.
-
-> **Our Edge**: Autonomous threat prediction (Kill Chain IQ 187), quantum-safe cryptography, and self-healing infrastructure—Hacker_AI doesn’t just fight tomorrow’s threats;
-it obliterates them today.
+> **Our Edge**: Autonomous threat prediction (Kill Chain IQ 187), quantum-safe cryptography, and self-healing
+infrastructure—Hacker_AI doesn’t just fight tomorrow’s threats; it obliterates them today.
 ```
 
 ## ✨ Killer Features

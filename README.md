@@ -40,11 +40,11 @@
 
 ### 🩸 **Core Arsenal**  
 
-🔻 **Autonomous AI** – Self-learning, self-adapting, always ahead of the threat.  
-🔻 **Zero-Day Executioner** – Predicts, hunts, and exploits unknown vulnerabilities before they surface.  
-🔻 **Quantum-Grade Stealth** – Ghost-mode evasion against EDR/XDR/SIEM defenses.  
-🔻 **Self-Healing Infrastructure** – AI-driven resilience ensuring **99.999% uptime**, battle tested.  
-🔻 **Kill Chain Mastery** – AI-orchestrated, precision-targeted cyber operations.  
+🤖⚡ **Autonomous AI** – Self-learning, self-adapting, always ahead of the threat.  
+🎯💀 **Zero-Day Executioner** – Predicts, hunts, and exploits unknown vulnerabilities before they surface.  
+⚛️👻 **Quantum-Grade Stealth** – Ghost-mode evasion against EDR/XDR/SIEM defenses.  
+🔄🛡️ **Self-Healing Infrastructure** – AI-driven resilience ensuring **99.999% uptime**, battle tested.  
+🔗🔪 **Kill Chain Mastery** – AI-orchestrated, precision-targeted cyber operations.  
 
 ---
 
@@ -59,9 +59,12 @@
 ```markdown
 ## 🌌 What is Hacker_AI?
 
-**Hacker_AI** is the ultimate AI-powered cybersecurity juggernaut, designed to outsmart state-sponsored APTs, ransomware cartels, and zero-day exploits with quantum-grade precision. This ethical titan wields fine-tuned models like `deepseek_coder_v2_lite_instruct` and `openthinker_32b` to orchestrate chaos and strike with lethal accuracy. It’s not just a tool—it’s a production-grade kill machine for pentesters, researchers, and defenders, ready to claim cosmic supremacy.
+**Hacker_AI** is the ultimate AI-powered cybersecurity juggernaut, designed to outsmart state-sponsored APTs, ransomware cartels, and zero-day exploits with quantum-grade precision.
+This ethical titan wields fine-tuned models like `deepseek_coder_v2_lite_instruct` and `openthinker_32b` to orchestrate chaos and strike with lethal accuracy. It’s not just a tool—it’s
+a production-grade kill machine for pentesters, researchers, and defenders, ready to claim cosmic supremacy.
 
-> **Our Edge**: Autonomous threat prediction (Kill Chain IQ 187), quantum-safe cryptography, and self-healing infrastructure—Hacker_AI doesn’t just fight tomorrow’s threats; it obliterates them today.
+> **Our Edge**: Autonomous threat prediction (Kill Chain IQ 187), quantum-safe cryptography, and self-healing infrastructure—Hacker_AI doesn’t just fight tomorrow’s threats;
+it obliterates them today.
 
 
 ## ✨ Killer Features

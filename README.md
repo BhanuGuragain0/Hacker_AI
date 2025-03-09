@@ -69,7 +69,6 @@ from academic rigor and battlefield innovation, it’s the ultimate weapon for p
 
 A 115+ directory, 418+ file titan powering a cybersecurity revolution. Here’s the core breakdown:
 
-```bash
 📁 Hacker_AI/
 ├─ 📊 **analytics/**  
 │  🔍 Metrics collection, dashboards, data pipelines, and report generation.  
@@ -299,7 +298,6 @@ A 115+ directory, 418+ file titan powering a cybersecurity revolution. Here’s 
    └── **wireless/**  
       📶 Wireless tools (e.g., Aircrack, Wifite).
 
-```
 
 **Full Beast**: Dive into the repo for all files powering this revolution!
 

@@ -1,7 +1,3 @@
-
-
-<img src="[https://raw.githubusercontent.com/BhanuGuragain0/Hacker_AI/main/docs/assets/logo.png](https://github.com/BhanuGuragain0/Hacker_AI/blob/main/raw/main/docs/assets/logo.png?raw=true)" width="200">
-
 <h1 align="center">Hacker_AI</h1>
 <p align="center">
   <strong>Unleash the Quantum-Class Cybersecurity Titan: Annihilate Elite Threats with Precision</strong><br>

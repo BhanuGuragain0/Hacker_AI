@@ -8,8 +8,7 @@
 
 <p align="center">
   <strong>Unleash the AI-Driven Cybersecurity Titan: Crush Elite Threats with Ethical Precision</strong><br>
-  Forged by <a href="https://github.com/BhanuGuragain0">Bhanu Guragain</a>, BSc Ethical Hacking & Cybersecurity, Coventry University<br>
-  Powered by Shadow Senior (AI Coding Beast)
+  Forged by <a href="https://github.com/BhanuGuragain0">Bhanu Guragain (Shadow@Bhanu)</a>, BSc Ethical Hacking & Cybersecurity, Coventry University<br>
 </p>
 
 <p align="center">

@@ -1,4 +1,4 @@
-<h1 align="center">Hacker_AI</h1>
+<h1 align="center">Hacker_AI The Cyber Warlord</h1>
 <p align="center">
   <strong>Unleash the Quantum-Class Cybersecurity Titan: Annihilate Elite Threats with Precision</strong><br>
   Forged by <a href="https://github.com/BhanuGuragain0">Bhanu Guragain (Shadow@bh4nu)</a>, BSc Ethical Hacking & Cybersecurity, Coventry University<br>
@@ -22,9 +22,6 @@
   <a href="https://github.com/BhanuGuragain0/Hacker_AI/releases">
     <img src="https://img.shields.io/github/downloads/BhanuGuragain0/Hacker_AI/total" alt="Downloads"/>
   </a>
-</p>
-<p align="center">
-  <strong>Hacker_AI: The Cyber Warlord</strong>
 </p>
 
 <p align="center">

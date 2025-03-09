@@ -319,17 +319,47 @@
 </details>
 
 ---
+💻 System Requirements
+🛠 Operating System
 
-## 💻 System Requirements
+    Kali Linux (🔥The Beast😈) – Required for hacking, pentesting, and AI security operations
 
-- **OS**: Linux (Ubuntu 20.04+), macOS, or Windows (WSL2)
-- **Python**: 3.9+
-- **Node.js**: 16+ (for web UI)
-- **Docker**: 20.10+ (optional)
-- **Hardware**:
-  - **Minimum**: 8GB RAM, 4-core CPU, 20GB storage
-  - **Alien-Grade**: 32GB RAM, NVIDIA GPU (CUDA 11+), 100GB SSD
-- **Prerequisites**: Nmap, Metasploit, Hashcat in PATH
+🐍 Programming Languages & Runtime
+
+    Python: 3.9+ (Essential for AI models, automation, and hacking scripts)
+    Node.js: 16+ (Required for web UI and real-time interactions)
+
+📦 Containerization & Virtualization
+
+    Docker: 20.10+ (Optional but recommended for sandboxed execution and portability)
+
+⚙️ Hardware Requirements
+🔹 Minimum (For Basic Functionality)
+
+    CPU: 4-core processor (Intel i5/Ryzen 5 or better)
+    RAM: 8GB
+    Storage: 20GB SSD (for basic operations)
+    GPU: Not required but recommended for AI acceleration
+
+🔹 Recommended (For Advanced Pentesting & AI)
+
+    CPU: 8-core processor (Intel i7/Ryzen 7 or better)
+    RAM: 32GB (for better multitasking and AI processing)
+    Storage: 1TB NVMe SSD (faster I/O for AI models and datasets)
+    GPU: NVIDIA RTX 3050+ with CUDA 11+ (for AI-assisted hacking and deep learning models)
+
+🔹 Full Power (For AI-Driven Cybersecurity & Large Models)
+
+    CPU: 32-core (AMD Threadripper or Intel Xeon)
+    RAM: 80GB+ (Recommended for running large models)
+    Storage: 10TB+ SSD (High-speed storage for datasets, AI models, and logs)
+    GPU: NVIDIA RTX 4090 / A100 / H100 (for high-performance AI training & inference)
+
+🔧 Prerequisites (Must be in PATH)
+
+    Nmap (Network scanning & reconnaissance)
+    Metasploit (Exploitation framework)
+    Hashcat (Password cracking & cryptanalysis)
 
 ---
 

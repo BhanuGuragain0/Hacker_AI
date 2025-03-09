@@ -338,7 +338,7 @@ it obliterates them today.
 
 ## ⚙️ Hardware Requirements
 
-🔹 Minimum 🥺🥺🥺🥺🥺🥺(For Basic Functionality)
+# Minimum 🥺🥺🥺🥺🥺🥺(For Basic Functionality)
 ```bash
 💻 CPU: 4-core processor (Intel i5/Ryzen 5 or better)
 🧠 RAM: 8GB
@@ -346,7 +346,7 @@ it obliterates them today.
 🖥️ GPU: Not required but recommended for AI acceleration
 ```
 
-🔹 Recommended 👿👿👿👿👿👿(For Advanced Pentesting & AI)
+# Recommended 👿👿👿👿👿👿(For Advanced Pentesting & AI)
 ```bash
 💻 CPU: 8-core processor (Intel i7/Ryzen 7 or better)
 🧠 RAM: 32GB (for better multitasking and AI processing)
@@ -354,7 +354,7 @@ it obliterates them today.
 🖥️ GPU: NVIDIA RTX 3050+ with CUDA 11+ (for AI-assisted hacking and deep learning models)
 ```
 
-🔹 Full Power 😈💀👁️‍🗨️🏴‍☠️💣 (For AI-Driven Cybersecurity & Large Models)
+# Full Power 😈💀👁️‍🗨️🏴‍☠️💣 (For AI-Driven Cybersecurity & Large Models)
 ```bash
 💻 CPU: 8-core processor (Intel i7/Ryzen 7 or better)
 🧠 RAM: 32GB (for better multitasking and AI processing)

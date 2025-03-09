@@ -83,7 +83,7 @@ it obliterates them today.
 ```
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 🧠👁️
 
 <details>
 <summary>Click to Expand the War Machine</summary>
@@ -323,42 +323,40 @@ it obliterates them today.
 
 ---
 ### 💻 System Requirements
-🛠 Operating System
+## 🛠 Operating System
 
     Kali Linux (🔥The Beast😈) – Required for hacking, pentesting, and AI security operations
 
-🐍 Programming Languages & Runtime
+## 🐍 Programming Languages & Runtime
 
     Python: 3.9+ (Essential for AI models, automation, and hacking scripts)
     Node.js: 16+ (Required for web UI and real-time interactions)
 
-📦 Containerization & Virtualization
+## 📦 Containerization & Virtualization
 
     Docker: 20.10+ (Optional but recommended for sandboxed execution and portability)
 
-⚙️ Hardware Requirements
-🔹 Minimum (For Basic Functionality)
+## ⚙️ Hardware Requirements
 
-    CPU: 4-core processor (Intel i5/Ryzen 5 or better)
-    RAM: 8GB
-    Storage: 20GB SSD (for basic operations)
-    GPU: Not required but recommended for AI acceleration
+🔹 Minimum 🥺🥺🥺🥺🥺🥺(For Basic Functionality)
+💻 CPU: 4-core processor (Intel i5/Ryzen 5 or better)
+🧠 RAM: 8GB
+💾 Storage: 20GB SSD (for basic operations)
+🖥️ GPU: Not required but recommended for AI acceleration
 
-🔹 Recommended (For Advanced Pentesting & AI)
+🔹 Recommended 👿👿👿👿👿👿(For Advanced Pentesting & AI)
+💻 CPU: 8-core processor (Intel i7/Ryzen 7 or better)
+🧠 RAM: 32GB (for better multitasking and AI processing)
+💾 Storage: 1TB NVMe SSD (faster I/O for AI models and datasets)
+🖥️ GPU: NVIDIA RTX 3050+ with CUDA 11+ (for AI-assisted hacking and deep learning models)
 
-    CPU: 8-core processor (Intel i7/Ryzen 7 or better)
-    RAM: 32GB (for better multitasking and AI processing)
-    Storage: 1TB NVMe SSD (faster I/O for AI models and datasets)
-    GPU: NVIDIA RTX 3050+ with CUDA 11+ (for AI-assisted hacking and deep learning models)
+🔹 Full Power 😈💀👁️‍🗨️🏴‍☠️💣 (For AI-Driven Cybersecurity & Large Models)
+💻 CPU: 8-core processor (Intel i7/Ryzen 7 or better)
+🧠 RAM: 32GB (for better multitasking and AI processing)
+💾 Storage: 1TB NVMe SSD (faster I/O for AI models and datasets)
+🖥️ GPU: NVIDIA RTX 3050+ with CUDA 11+ (for AI-assisted hacking and deep learning models)
 
-🔹 Full Power (For AI-Driven Cybersecurity & Large Models)
-
-    CPU: 32-core (AMD Threadripper or Intel Xeon)
-    RAM: 80GB+ (Recommended for running large models)
-    Storage: 10TB+ SSD (High-speed storage for datasets, AI models, and logs)
-    GPU: NVIDIA RTX 4090 / A100 / H100 (for high-performance AI training & inference)
-
-🔧 Prerequisites (Must be in PATH)
+## 🔧 Prerequisites 🙇🙏(Must be in PATH)
 
     Nmap (Network scanning & reconnaissance)
     Metasploit (Exploitation framework)

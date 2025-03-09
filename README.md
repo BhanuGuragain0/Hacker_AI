@@ -1,8 +1,7 @@
 
 
-<p align="center">
-  <img src="https://github.com/BhanuGuragain0/Hacker_AI/raw/main/docs/assets/logo.png" alt="Hacker_AI Logo" width="200"/>
-</p>
+![Hacker_AI Logo](https://github.com/BhanuGuragain0/Hacker_AI/raw/main/docs/assets/logo.png)
+
 <h1 align="center">Hacker_AI</h1>
 <p align="center">
   <strong>Unleash the Quantum-Class Cybersecurity Titan: Annihilate Elite Threats with Precision</strong><br>

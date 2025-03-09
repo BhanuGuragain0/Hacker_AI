@@ -40,11 +40,11 @@
 
 ### 🩸 **Core Arsenal**  
 
-🤖⚡ **Autonomous AI** – Self-learning, self-adapting, always ahead of the threat.  
-🎯💀 **Zero-Day Executioner** – Predicts, hunts, and exploits unknown vulnerabilities before they surface.  
-⚛️👻 **Quantum-Grade Stealth** – Ghost-mode evasion against EDR/XDR/SIEM defenses.  
-🔄🛡️ **Self-Healing Infrastructure** – AI-driven resilience ensuring **99.999% uptime**, battle tested.  
-🔗🔪 **Kill Chain Mastery** – AI-orchestrated, precision-targeted cyber operations.  
+🤖⚡ **Autonomous AI**🧠 – Self-learning, self-adapting, always ahead of the threat.  
+🎯💀 **Zero-Day Executioner**🏴‍☠️ – Predicts, hunts, and exploits unknown vulnerabilities before they surface.  
+⚛️👻 **Quantum-Grade Stealth**️🕵️‍♂️ – Ghost-mode evasion against EDR/XDR/SIEM defenses.  
+🔄🛡️ **Self-Healing Infrastructure**️🛠️ – AI-driven resilience ensuring **99.999% uptime**, battle tested.  
+🔗🔪 **Kill Chain Mastery**👑 – AI-orchestrated, precision-targeted cyber operations.  
 
 ---
 

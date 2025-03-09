@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <em>Engineered in Coventry University's Studen elite cyber labs, <strong>Hacker_AI</strong> is a self-evolving AI war machine—built to outthink, outmaneuver, and annihilate the most advanced cyber threats. A fusion of JARVIS-level intelligence and military-grade automation, designed to execute precision strikes with surgical stealth and unmatched resilience.</em>
+  <em>Engineered in Coventry University's Student cyber lab, <strong>Hacker_AI</strong> is a self-evolving AI war machine built to outthink, outmaneuver, and annihilate the most advanced cyber threats. A fusion of JARVIS level intelligence and military grade automation, designed to execute precision strikes with surgical stealth and unmatched resilience.</em>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 🔻 **Autonomous AI** – Self-learning, self-adapting, always ahead of the threat.  
 🔻 **Zero-Day Executioner** – Predicts, hunts, and exploits unknown vulnerabilities before they surface.  
 🔻 **Quantum-Grade Stealth** – Ghost-mode evasion against EDR/XDR/SIEM defenses.  
-🔻 **Self-Healing Infrastructure** – AI-driven resilience ensuring **99.999% uptime**, battle-tested in chaotic environments.  
+🔻 **Self-Healing Infrastructure** – AI-driven resilience ensuring **99.999% uptime**, battle tested.  
 🔻 **Kill Chain Mastery** – AI-orchestrated, precision-targeted cyber operations.  
 
 ---
@@ -55,7 +55,6 @@
   <strong>☠️ Engage the Beast or Be Consumed. 😈</strong>
 </p>
 
-
 ---
 ```markdown
 ## 🌌 What is Hacker_AI?
@@ -64,7 +63,6 @@
 
 > **Our Edge**: Autonomous threat prediction (Kill Chain IQ 187), quantum-safe cryptography, and self-healing infrastructure—Hacker_AI doesn’t just fight tomorrow’s threats; it obliterates them today.
 
----
 
 ## ✨ Killer Features
  

@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <em>Engineered in Coventry University's Student cyber lab, <strong>Hacker_AI</strong> is a self-evolving AI war machine built to outthink, outmaneuver, and annihilate the most advanced cyber threats. A fusion of JARVIS level intelligence and military grade automation, designed to execute precision strikes with surgical stealth and unmatched resilience.</em>
+  <em>🛠️ Engineered in Coventry University's Student Cyber Lab, <strong>Hacker_AI</strong> is a self-evolving AI war machine 🤖⚔️ built to outthink, outmaneuver, and annihilate the most advanced cyber threats. A fusion of JARVIS-level intelligence 🧠✨ and military-grade automation ⚙️🛡️, designed to execute precision strikes with surgical stealth 🌑🕵️‍♂️ and unmatched resilience 💪🔥.</em>
 </p>
 
 ---
@@ -56,8 +56,8 @@
 </p>
 
 ---
-```markdown
 ## 🌌 What is Hacker_AI?
+```markdown
 
 **Hacker_AI** is the ultimate AI-powered cybersecurity juggernaut, designed to outsmart state-sponsored APTs, ransomware cartels, and zero-day exploits with quantum-grade precision.
 This ethical titan wields fine-tuned models like `deepseek_coder_v2_lite_instruct` and `openthinker_32b` to orchestrate chaos and strike with lethal accuracy. It’s not just a tool—it’s
@@ -65,10 +65,11 @@ a production-grade kill machine for pentesters, researchers, and defenders, read
 
 > **Our Edge**: Autonomous threat prediction (Kill Chain IQ 187), quantum-safe cryptography, and self-healing infrastructure—Hacker_AI doesn’t just fight tomorrow’s threats;
 it obliterates them today.
-
+```
 
 ## ✨ Killer Features
- 
+ ```markdown
+
 | Feature                   | Why It Roars                                                                                                 | Dive In                                  |
 |---------------------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------|
 | **AI-Powered Offense**    | Autonomous exploit generation using `codebert_base.pt` & advanced PPO loops in `ai_decision.py`.             | `backend/ai_engine/exploitation/`        |

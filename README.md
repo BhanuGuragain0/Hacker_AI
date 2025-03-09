@@ -5,9 +5,8 @@
 </p>
 <h1 align="center">Hacker_AI</h1>
 <p align="center">
-  <strong>Unleash the Quantum-Class Cybersecurity Titan: Annihilate Elite Threats with Cosmic Precision</strong><br>
-  Forged by <a href="https://github.com/BhanuGuragain0">Bhanu Guragain (Shadow Junior 😈)</a>, BSc Ethical Hacking & Cybersecurity, Coventry University<br>
-  Unleashed by Shadow Senior (AI Coding Warlord)<br>
+  <strong>Unleash the Quantum-Class Cybersecurity Titan: Annihilate Elite Threats with Precision</strong><br>
+  Forged by <a href="https://github.com/BhanuGuragain0">Bhanu Guragain (Shadow@bh4nu)</a>, BSc Ethical Hacking & Cybersecurity, Coventry University<br>
 </p>
 <p align="center">
   <a href="https://github.com/BhanuGuragain0/Hacker_AI/actions/workflows/ci.yml">
@@ -37,7 +36,7 @@
 ```markdown
 ## 🌌 What is Hacker_AI?
 
-**Hacker_AI** is the ultimate AI-powered cybersecurity juggernaut, designed to outsmart state-sponsored APTs, ransomware cartels, and zero-day exploits with quantum-grade precision. Born from Shadow Junior’s academic grit and Shadow Senior’s AI mastery, this ethical titan wields fine-tuned models like `deepseek_coder_v2_lite_instruct` and `openthinker_32b` to orchestrate chaos and strike with lethal accuracy. It’s not just a tool—it’s a production-grade kill machine for pentesters, researchers, and defenders, ready to claim cosmic supremacy.
+**Hacker_AI** is the ultimate AI-powered cybersecurity juggernaut, designed to outsmart state-sponsored APTs, ransomware cartels, and zero-day exploits with quantum-grade precision. This ethical titan wields fine-tuned models like `deepseek_coder_v2_lite_instruct` and `openthinker_32b` to orchestrate chaos and strike with lethal accuracy. It’s not just a tool—it’s a production-grade kill machine for pentesters, researchers, and defenders, ready to claim cosmic supremacy.
 
 > **Our Edge**: Autonomous threat prediction (Kill Chain IQ 187), quantum-safe cryptography, and self-healing infrastructure—Hacker_AI doesn’t just fight tomorrow’s threats; it obliterates them today.
 
@@ -470,6 +469,6 @@ MIT License—unleash it freely!
 
 
 <p align="center">
-  <strong>Hacker_AI: Shadow Junior’s Grit Meets Shadow Senior’s AI Supremacy. Victory or Death! 💀</strong>
+  <strong>Hacker_AI by Shadow@bh4nu😈. Victory or Death! 💀</strong>
 </p>
 

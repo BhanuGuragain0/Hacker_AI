@@ -162,12 +162,12 @@ This is the next evolution of cyber warfare, where AI outthinks, outmaneuvers, a
 │  │  │  🗂️ Data models for exploits, scans, users, and vulnerabilities.
 │  │  ├─ 🔧 orchestration/  
 │  │  │  🎶 Orchestration logic for coordinating AI models and workflows.
-│  │  │  ├─ deepseek_coder_v2_lite_instruct/
-│  │  │  ├─ deepseek_r1_distill_qwen_32b/
-│  │  │  ├─ llama/
-│  │  │  ├─ openthinker_32b/
-│  │  │  ├─ openthinker_7b/
-│  │  │  └─ securityllm/
+│  │  │    ├─ deepseek_coder_v2_lite_instruct/
+│  │  │    ├─ deepseek_r1_distill_qwen_32b/
+│  │  │    ├─ llama/
+│  │  │    ├─ openthinker_32b/
+│  │  │    ├─ openthinker_7b/
+│  │  │    └─ securityllm/
 │  │  ├─ 🔒 security/  
 │  │  │  🛡️ Security utilities: access control, authentication, encryption, etc.
 │  │  ├─ 💊 self_healing/  
@@ -206,7 +206,6 @@ This is the next evolution of cyber warfare, where AI outthinks, outmaneuvers, a
 │  ├─ docker/  
 │  │  ├─ backend/  🐳 Docker setup for backend services.
 │  │  ├─ frontend/  🐳 Docker setup for frontend services.
-│  │  └─ __init__.py
 │  └─ kubernetes/  🚢 Kubernetes deployment manifests.
 │
 ├─ 📚 docs/  

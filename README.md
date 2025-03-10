@@ -32,68 +32,64 @@
 </p>
 
 ---
-## 🚀 Mission & Vision
 
-**Hacker_AI** is more than a cybersecurity tool—it’s an evolving digital combat system that generates alien-level code. Our platform harnesses an ecosystem of piece-of-code generators, fine-tuned models, and pre-trained architectures to autonomously produce production-grade code that:
-- **Outpaces Threats:** Predicts and neutralizes cyber attacks up to 60 seconds before execution.
-- **Operates Beyond Human Intelligence:** Self-learns, adapts, and integrates future quantum modules for next-generation operations.
-- **Maintains Modular Resilience:** Every component is designed to be replaceable and upgradeable without disrupting the entire system.
-- **Commands in Multiple Modalities:** Run autonomously, via CLI, or even through voice commands.
 
-Together, we’re building a system that not only meets today’s cybersecurity challenges but establishes the blueprint for a Type 3 civilization in digital warfare.
+## 🚀 MISSION & VISION
+```markdown
+⚡🚀 𝙃𝘼𝘾𝙆𝙀𝙍_𝘼𝙄 𝙏𝙃𝙀 𝙐𝙇𝙏𝙄𝙈𝘼𝙏𝙀 𝘿𝙄𝙂𝙄𝙏𝘼𝙇 𝙒𝘼𝙍 𝙈𝘼𝘾𝙃𝙄𝙉𝙀 🧠💀
+"𝙉𝙤𝙩 𝙟𝙪𝙨𝙩 𝙖 𝙩𝙤𝙤𝙡 𝙖 𝘤𝘺𝘣𝘦𝘳 𝘸𝘦𝘢𝘱𝘰𝘯. 𝘼𝙣 𝘦𝘭𝘪𝘵𝘦 𝘬𝘪𝘭𝘭𝘴𝘸𝘪𝘵𝘤𝘩. 𝘼𝙣 𝘢𝘶𝘵𝘰𝘯𝘰𝘮𝘰𝘶𝘴 𝘥𝘪𝘨𝘪𝘵𝘢𝘭 𝘢𝘴𝘴𝘢𝘴𝘴𝘪𝘯."
+This is the next evolution of cyber warfare, where AI outthinks, outmaneuvers, and dominates every adversary in its path.
+
+🔥 CYBER DOMINATION: ONE ALGORITHM AT A TIME
+⚔️ OUTPACES THREATS
+🛡️ Predicts & neutralizes cyber attacks 𝘶𝘱 𝘵𝘰 60 𝘴𝘦𝘤𝘰𝘯𝘥𝘴 𝘣𝘦𝘧𝘰𝘳𝘦 𝘦𝘹𝘦𝘤𝘶𝘵𝘪𝘰𝘯.
+🧠 OPERATES BEYOND HUMAN INTELLIGENCE
+🤖 Self-learns, adapts, and integrates quantum modules for next-gen cyber dominance.
+🏗️ MAINTAINS MODULAR RESILIENCE
+🔧 Every component is replaceable & upgradeable no single point of failure.
+🕹️ COMMANDS IN MULTIPLE MODALITIES
+💻 Autonomous execution, 🏴‍☠️ command-line interface, or voice-controlled hacking.
+🚨 W𝙚’𝙧𝙚 𝙬𝙧𝙞𝙩𝙞𝙣𝙜 𝙩𝙝𝙚 𝙗𝙡𝙪𝙚𝙥𝙧𝙞𝙣𝙩 𝙛𝙤𝙧 future 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙬𝙖𝙧𝙛𝙖𝙧𝙚.
+```
+<p align="center">
+  <strong>💀 WELCOME TO THE FUTURE🧠 ADAPT OR PERISH 💀</strong>
+</p>
 
 ---
 
-## 🔥 Core Cyberwar Arsenal
-
-### 1. AGI War Core (backend/ai_engine/)
-- **Autonomous Decision Engine:**  
-  - *ai_decision.py*: Integrates VulnBERT with a custom PPO reinforcement learning loop to predict and counter threats.
-  - *threat_mapper.py*: Converts global cyber intelligence into precise MITRE ATT&CK mappings.
-- **Zero-Day Execution & Adaptive Exploitation:**  
-  - *zero_day_hunter.py*: Utilizes quantum-optimized ML pipelines for real-time exploit generation.
-  - *auto_learning.py*: Continuously evolves tactics based on encrypted, real-world feedback.
-- **Multi-Model Integration:**  
-  - Seamlessly integrates code snippets, fine-tuned models, and state-of-the-art pre-trained architectures (e.g., CodeBERT, DeepSeek, OpenThinker) to ensure an ever-adaptive system.
-- **Experimental Modules:**  
-  - *jarvis/*: A sandbox for advanced and experimental code (including voice command integration).  
-  - *quantum/*: Future quantum AI modules for next-gen cyber offense and defense.
-
-### 2. Stealth & Destruction Layer
-- **Evasion Mastery:**  
-  - *evasion.py*: Deploys polymorphic, quantum-resistant payloads to bypass even the most advanced defenses.
-- **Precision Exploitation:**  
-  - *exploit.py*: Auto-generates, fine-tunes, and executes exploits with surgical precision.
-- **Red Team Automation:**  
-  - *threat_simulation.py*: Drives hyper-realistic, multi-stage red teaming exercises against fortified targets.
-
-### 3. Unbreakable Infrastructure (backend/core/)
-- **Quantum-Grade Encryption:**  
-  - *encryption.py*: Implements AES-256-GCM and lattice-based cryptography to secure our digital arsenal.
-- **Dynamic Self-Healing:**  
-  - *self_heal_system.py* & *anomaly_detector.py*: Guarantee 99.999% uptime via autonomous recovery and predictive maintenance.
-- **AI-Driven Orchestration:**  
-  - *orchestration.py*: Coordinates 50+ modular tools using advanced DAG-based workflows and integrates deep learning models for adaptive operations.
-
-### 4. Command Citadel (backend/api/)
-- **Fortified API & Telemetry:**  
-  - *server.py* & *metrics.py*: Create a secure, real-time command center that exposes detailed dashboards, enabling both CLI and voice command operations.
-
-### 5. War Room Interfaces (frontend/)
-- **Web UI Command Center:**  
-  - *App.js*: A cutting-edge, React-based interface featuring dynamic threat graphs and AI-generated MITRE ATT&CK visualizations.
-- **CLI Arsenal:**  
-  - *main_cli.py*: A robust, syntax-driven command-line interface for launching scans, orchestrating exploits, and executing multi-stage attack workflows.
-- **Integrated Voice & Autonomous Control:**  
-  - Future enhancements will enable seamless voice-command operations across the platform.
-
-### 6. Integrated Cyberwar Tools (tools/)
-- **Quantum-Enhanced Recon & Scanning:**  
-  - *nmap_warper.py*: Uses quantum-optimized timing and adversarial evasion to conduct stealth scans.
-- **GPU-Accelerated Bruteforce:**  
-  - *hashcat_warper.py*: Leverages high-performance GPU clusters for unparalleled hash cracking speeds.
-- **AI-Driven Exploit Selection:**  
-  - *metasploit_warper.py*: Automatically selects and deploys the most potent exploits using integrated VulnBERT insights.
+🔥🛡️ **CORE** ⚔️🤖  
+"𝙉𝙤𝙩 𝙟𝙪𝙨𝙩 𝙘𝙤𝙙𝙚 𝙖𝙣 𝙖𝙪𝙩𝙤𝙣𝙤𝙢𝙤𝙪𝙨 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙖𝙨𝙨𝙖𝙨𝙨𝙞𝙣. 𝘼𝙣 𝙀𝙇𝙄𝙏𝙀 𝙠𝙞𝙡𝙡𝙨𝙬𝙞𝙩𝙘𝙝. 𝘼𝙣 𝙖𝙡𝙜𝙤𝙧𝙞𝙩𝙝𝙢𝙞𝙘 𝙬𝙖𝙧𝙢𝙖𝙘𝙝𝙞𝙣𝙚."
+```markdown
+🚀 AGI WAR CORE (backend/ai_engine/)
+⚡ Autonomous Decision Warfare🧠 ai_decision.py: VulnBERT-powered AI with custom PPO reinforcement learning 𝘵𝘩𝘪𝘯𝘬𝘴, 𝘱𝘳𝘦𝘥𝘪𝘤𝘵𝘴, 𝘦𝘭𝘪𝘮𝘪𝘯𝘢𝘵𝘦𝘴.📡
+      threat_mapper.py: Deciphers global cyber intelligence into 𝙋𝙍𝙀𝘾𝙄𝙎𝙀 MITRE ATT&CK maneuvers.
+⚔️ Zero-Day Mastery & Adaptive Exploitation💀 zero_day_hunter.py: AI-enhanced real-time exploit generation 𝙯𝙚𝙧𝙤 𝙙𝙖𝙮𝙨, 𝙯𝙚𝙧𝙤 𝙡𝙞𝙢𝙞𝙩𝙨.🔄
+      auto_learning.py: Evolves autonomously real-world encrypted feedback redefines cyber offense.
+🤖 Multi-Model Fusion🔬 Integrates CodeBERT, DeepSeek, OpenThinker & fine-tuned models for unstoppable AI adaptation.
+🔬 Experimental Labs🎭 jarvis/: Sandbox for voice-command integration & AI-driven offense.⚛️ quantum/: Cutting-edge quantum-AI modules
+      for future cyberwar supremacy.
+⚔️ STEALTH & DESTRUCTION LAYER
+🕵️ Elite Evasion & Obfuscation🎭 evasion.py: Deploys 𝙦𝙪𝙖𝙣𝙩𝙪𝙢-𝙧𝙚𝙨𝙞𝙨𝙩𝙖𝙣𝙩, 𝙥𝙤𝙡𝙮𝙢𝙤𝙧𝙥𝙝𝙞𝙘 𝙥𝙖𝙮𝙡𝙤𝙖𝙙𝙨 𝙪𝙣𝙙𝙚𝙩𝙚𝙘𝙩𝙖𝙗𝙡𝙚.
+🎯 Precision Strike Exploitation🔪 exploit.py: AI-driven auto-exploit generation & execution 𝙤𝙣𝙚 𝙨𝙝𝙤𝙩, 𝙤𝙣𝙚 𝙠𝙞𝙡𝙡.
+🏴‍☠️ Automated Red Team Warfare💣 threat_simulation.py: Conducts 𝙝𝙮𝙥𝙚𝙧-𝙧𝙚𝙖𝙡𝙞𝙨𝙩𝙞𝙘 multi-stage red teaming 𝙛𝙤𝙧𝙩𝙞𝙛𝙞𝙚𝙙 𝙩𝙖𝙧𝙜𝙚𝙩𝙨 𝙛𝙖𝙡𝙡.
+🔥 UNBREAKABLE INFRASTRUCTURE (backend/core/)
+🔐 Quantum-Grade Encryption🛡️ encryption.py: AES-256-GCM + 𝙡𝙖𝙩𝙩𝙞𝙘𝙚-𝙗𝙖𝙨𝙚𝙙 𝙘𝙧𝙮𝙥𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙮 𝙪𝙣𝙗𝙧𝙚𝙖𝙠𝙖𝙗𝙡𝙚.
+⚙️ Dynamic Self-Healing Systems🩸 self_heal_system.py & anomaly_detector.py: Autonomous recovery + predictive maintenance 99.999% uptime.
+🕹️ AI-Driven Command Orchestration🤖 orchestration.py: 50+ modular tools coordinated by AI-driven DAG workflows.
+🏰 COMMAND CITADEL (backend/api/)
+📡 Fortified API & Real-Time Telemetry🔍 server.py & metrics.py: Secure command center CLI & voice-command ops.
+🛠️ WAR ROOM INTERFACES (frontend/)
+🌍 Web UI Command Center🖥️ App.js: React-based cyberwar interface MITRE ATT&CK visualizations, real-time AI threat graphs.
+💻 Elite CLI Arsenal⚡ main_cli.py: Syntax-driven CLI 𝘴𝘤𝘢𝘯, 𝘦𝘹𝘱𝘭𝘰𝘪𝘵, 𝘥𝘰𝘮𝘪𝘯𝘢𝘵𝘦.
+🎙️ Voice & Autonomous Control🔊 Future voice-command cyberwarfare 𝙟𝙪𝙨𝙩 𝙨𝙥𝙚𝙖𝙠, 𝙞𝙩 𝙖𝙩𝙩𝙖𝙘𝙠𝙨.
+⚙️ INTEGRATED CYBERWAR TOOLS (tools/)
+🔍 Quantum-Enhanced Recon & Scanning🕵️ nmap_warper.py: Quantum-optimized stealth scanning 𝙪𝙣𝙩𝙧𝙖𝙘𝙚𝙖𝙗𝙡𝙚.
+🚀 GPU-Accelerated Bruteforce Domination💥 hashcat_warper.py: High-performance GPU clusters 𝙥𝙖𝙨𝙨𝙬𝙤𝙧𝙙𝙨 𝙖𝙧𝙚 𝙚𝙭𝙩𝙞𝙣𝙘𝙩.
+💀 AI-Guided Exploit Deployment🎯 metasploit_warper.py: Autonomous exploit selection & execution 𝙨𝙝𝙖𝙥𝙞𝙣𝙜 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙘𝙝𝙖𝙤𝙨.
+```
+<p align="center">
+  <strong>💀🚨 W𝙚’𝙧𝙚 𝙬𝙧𝙞𝙩𝙞𝙣𝙜 𝙩𝙝𝙚 𝙛𝙪𝙩𝙪𝙧𝙚 𝙤𝙛 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙬𝙖𝙧 🧠💀</strong>
+</p>
 
 ---
 
@@ -305,15 +301,15 @@ Together, we’re building a system that not only meets today’s cybersecurity 
 
 ### Minimum 🥺🥺🥺🥺🥺🥺(For Basic Functionality)
 ```bash
-💻 CPU: 4-core processor (Intel i5/Ryzen 5 or better)
+💻 CPU: 8-core processor (Intel i5/Ryzen 5 or better)
 🧠 RAM: 8GB
-💾 Storage: 20GB SSD (for basic operations)
+💾 Storage: 50GB SSD (for basic operations)
 🖥️ GPU: Not required but recommended for AI acceleration
 ```
 
 ### Recommended 👿👿👿👿👿👿(For Advanced Pentesting & AI)
 ```bash
-💻 CPU: 8-core processor (Intel i7/Ryzen 7 or better)
+💻 CPU: 16-core processor (Intel i7/Ryzen 7 or better)
 🧠 RAM: 32GB (for better multitasking and AI processing)
 💾 Storage: 1TB NVMe SSD (faster I/O for AI models and datasets)
 🖥️ GPU: NVIDIA RTX 3050+ with CUDA 11+ (for AI-assisted hacking and deep learning models)
@@ -321,10 +317,11 @@ Together, we’re building a system that not only meets today’s cybersecurity 
 
 ### Full Power 😈💀👁️‍🗨️🏴‍☠️💣 (For AI-Driven Cybersecurity & Large Models)
 ```bash
-💻 CPU: 8-core processor (Intel i7/Ryzen 7 or better)
-🧠 RAM: 32GB (for better multitasking and AI processing)
-💾 Storage: 1TB NVMe SSD (faster I/O for AI models and datasets)
-🖥️ GPU: NVIDIA RTX 3050+ with CUDA 11+ (for AI-assisted hacking and deep learning models)
+💻 CPU: 32-core processor (Intel Xeon Scalable/AMD EPYC 7003 Series or better)  
+🧠 RAM: 256GB (Optimal for handling large datasets and concurrent AI models like DeepSeek and OpenThinker)  
+💾 Storage: 8TB NVMe SSD (Ultra-fast read/write speeds for handling large datasets, logs, and model weights)  
+🖥️ GPU: Dual NVIDIA A100 80GB (or NVIDIA H100 Tensor Core) with CUDA 12+  
+
 ```
 ## 🔧 Prerequisites 🙇🙏(Must be in PATH)
 
@@ -439,26 +436,12 @@ Deploy via Kubernetes:
 ```bash
 kubectl apply -f deployment/kubernetes/backend_deployment.yaml
 ```
-
----
-
-## 🤝 Contributing
-
-- **Fork & Branch:**  
-  Create a feature branch (e.g., `feat/cosmic-strike`) for new enhancements.
-- **Modular Extensions:**  
-  Update or add modules in our clearly segmented directories (e.g., `ai_engine`, `core`, `tools`).
-- **Pull Requests:**  
-  Submit PRs for review and integration.
-
-Your contributions will help push the boundaries of autonomous, AI-driven cyber warfare.
-
 ---
 
 ## 📜 License
-
+```
 This project is released under the MIT License. Feel free to use and extend Hacker_AI.
-
+```
 ---
 
 ## 📬 Contact
@@ -479,7 +462,7 @@ Our AI Assistant transforms raw ideas into code that transcends human intelligen
 - **Unbreakable Resilience:** Post-quantum cryptography and dynamic self-healing at every turn.
 
 **Dominate. Adapt. Evolve.**  
-Engage the Beast or Be Consumed—there is no in-between.
+Engage the Beast or Be Consumed there is no in-between.
 
 🔥 Hacker_AI – Where cutting-edge innovation meets relentless cyber domination. Let's code the future and transform Hacker_AI into the most feared, advanced cyberwar machine in history.  
 
@@ -487,5 +470,6 @@ Engage the Beast or Be Consumed—there is no in-between.
 ---
 
 <p align="center">
-  <strong>Hacker_AI by Shadow@bh4nu😈. Victory or Death! 💀</strong>
+  <strong>Hacker_AI by Shadow@bh4nu😈<br> 
+    Victory or Death! 💀</strong>
 </p>

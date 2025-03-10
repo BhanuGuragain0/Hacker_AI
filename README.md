@@ -52,7 +52,7 @@ This is the next evolution of cyber warfare, where AI outthinks, outmaneuvers, a
 🚨 W𝙚’𝙧𝙚 𝙬𝙧𝙞𝙩𝙞𝙣𝙜 𝙩𝙝𝙚 𝙗𝙡𝙪𝙚𝙥𝙧𝙞𝙣𝙩 𝙛𝙤𝙧 future 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙬𝙖𝙧𝙛𝙖𝙧𝙚.
 ```
 <p align="center">
-  <strong>💀 WELCOME TO THE FUTURE🧠<br> 
+  <strong>💀 WELCOME TO THE FUTURE 🧠<br> 
     😈 ADAPT OR PERISH 😏</strong>
 </p>
 

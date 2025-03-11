@@ -29,7 +29,7 @@
 
 <p align="center">
   <em>
-    Engineered at Coventry University's Student Cyber Lab ⚡, <strong>Hacker_AI</strong> is a self evolving, AI powered war machine designed to preempt, counter, and annihilate cyber threats before they surface. With a modular design integrating autonomous decision making, quantum resistant cryptography, and self healing infrastructure, Hacker_AI pushes the boundaries of digital warfare. 🔥💻
+    Engineered at Coventry University's Student Cyber Lab ⚡, <strong>Hacker_AI</strong> is a self-evolving, AI-powered war machine designed to preempt, counter, and annihilate cyber threats before they surface. With a modular design integrating autonomous decision making, quantum-resistant cryptography, and self-healing infrastructure, Hacker_AI pushes the boundaries of digital warfare. 🔥💻
   </em>
 </p>
 
@@ -39,12 +39,12 @@
 
 ```markdown
 ⚡🚀 HACKER_AI – THE ULTIMATE DIGITAL WAR MACHINE 🧠💀
-"Not just a tool a cyber weapon that outsmarts, outmaneuvers, and annihilates adversaries. An elite, autonomous digital assassin."
+"Not just a tool, but a cyber weapon that outsmarts, outmaneuvers, and annihilates adversaries. An elite, autonomous digital assassin."
 
 💣 Cyber Domination: One algorithm at a time.
 ⏱️ Threat Outpacing: Predicts and neutralizes attacks up to 60 seconds before execution.
 🤖 Beyond Human: Operates with intelligence that transcends human limitations.
-🔧 Modular Resilience: Every component is replaceable & upgradeable   no single point of failure.
+🔧 Modular Resilience: Every component is replaceable & upgradeable – no single point of failure.
 🎙️ Multimodal Command: Autonomous execution via CLI, web UI, or voice-controlled hacking.
 
 We're writing the blueprint for the future of digital warfare.
@@ -60,29 +60,29 @@ We're writing the blueprint for the future of digital warfare.
 
 ### **AGI WAR CORE (backend/ai_engine/)**
 - **Autonomous Decision Warfare:**  
-  - **ai_decision.py:** 🔥 VulnBERT-powered AI with a custom PPO loop that thinks, predicts, and neutralizes threats up to 60 seconds ahead.  
+  - **ai_decision.py:** 🔥 VulnBERT-powered AI with a custom PPO loop that predicts and neutralizes threats up to 60 seconds ahead.
   - **threat_mapper.py:** 🔍 Translates global cyber intelligence into precise MITRE ATT&CK maneuvers.
   
 - **Zero-Day Mastery & Adaptive Exploitation:**  
-  - **zero_day_hunter.py:** 🚀 AI-enhanced real-time exploit generation   zero days, zero limits.  
-  - **auto_learning.py:** 🔄 Continuously evolves tactics via encrypted, real-world feedback.
+  - **zero_day_hunter.py:** 🚀 AI-enhanced real-time zero-day exploitation.
+  - **auto_learning.py:** 🔄 Continuously evolves tactics through encrypted, real-world feedback.
 
 - **Multi-Model Fusion:**  
-  - ⚙️ Integrates CodeBERT, DeepSeek, OpenThinker, and other fine-tuned models for unstoppable AI adaptation.
+  - ⚙️ Seamlessly integrates CodeBERT, DeepSeek, OpenThinker, QwQ-32B, and other fine-tuned models to create an unstoppable AI arsenal.
 
 - **Experimental Labs:**  
-  - **jarvis/:** 🎤 A sandbox for voice-command integration and experimental offensive modules.  
-  - **quantum/:** ⚛️ Next-gen quantum-AI modules for future cyber supremacy.
+  - **jarvis/**: 🎤 Houses voice-command integration for a Jarvis-like assistant.
+  - **quantum/**: ⚛️ Experimental quantum-AI modules for next-gen cyber supremacy.
 
 ---
 
 ### **STEALTH & DESTRUCTION LAYER**
 - **Elite Evasion & Obfuscation:**  
   - **evasion.py:** 🕶️ Deploys quantum-resistant, polymorphic payloads that remain undetectable.
-
+  
 - **Precision Strike Exploitation:**  
   - **exploit.py:** 🎯 Auto-generates and executes exploits with surgical precision.
-
+  
 - **Automated Red Team Warfare:**  
   - **threat_simulation.py:** 💥 Conducts hyper-realistic, multi-stage red team operations against fortified targets.
 
@@ -90,43 +90,43 @@ We're writing the blueprint for the future of digital warfare.
 
 ### **UNBREAKABLE INFRASTRUCTURE (backend/core/)**
 - **Quantum-Grade Encryption:**  
-  - **encryption.py:** 🔐 Uses AES-256-GCM and lattice-based cryptography for unbreakable data security.
-
+  - **encryption.py:** 🔐 Implements AES-256-GCM and lattice-based cryptography for unbreakable data security.
+  
 - **Dynamic Self-Healing Systems:**  
-  - **self_heal_system.py & anomaly_detector.py:** 🩹 Autonomous recovery with 99.999% uptime.
-
+  - **self_heal_system.py & anomaly_detector.py:** 🩹 Ensure near 100% uptime with autonomous recovery.
+  
 - **AI-Driven Command Orchestration:**  
-  - **orchestration.py:** 🤖 Coordinates over 50 modular tools via advanced DAG workflows.
+  - **orchestration.py:** 🤖 Coordinates over 50 modular tools through advanced Directed Acyclic Graph (DAG) workflows.
 
 ---
 
 ### **COMMAND CITADEL (backend/api/)**
 - **Fortified API & Telemetry:**  
-  - **server.py & metrics.py:** 📡 Secure, real-time command center with comprehensive CLI and voice-command capabilities.
+  - **server.py & metrics.py:** 📡 Deliver a secure, real-time command center with comprehensive CLI and voice-command capabilities.
 
 ---
 
 ### **WAR ROOM INTERFACES (frontend/)**
 - **Web UI Command Center:**  
-  - **App.js:** 🌐 A React-based interface delivering dynamic MITRE ATT&CK visualizations and real-time threat graphs.
+  - **App.js:** 🌐 A React-based interface showcasing dynamic MITRE ATT&CK visualizations and real-time threat graphs.
   
 - **Elite CLI Arsenal:**  
-  - **main_cli.py:** 💻 Syntax-driven CLI for autonomous scanning, exploitation, and domination.
+  - **main_cli.py:** 💻 A syntax-driven CLI for autonomous scanning, exploitation, and cyber domination.
   
 - **Voice & Autonomous Control:**  
-  - 🔊 Future enhancements will enable voice-command cyber operations.
+  - 🔊 Future enhancements to enable full voice-command operations.
 
 ---
 
 ### **INTEGRATED CYBERWAR TOOLS (tools/)**
 - **Quantum-Enhanced Recon & Scanning:**  
-  - **nmap_warper.py:** 🔍 Stealth scanning that bypasses IDS/IPS using quantum-optimized timing.
+  - **nmap_wrapper.py:** 🔍 Stealth scanning that bypasses IDS/IPS with quantum-optimized timing.
   
 - **GPU-Accelerated Bruteforce Domination:**  
-  - **hashcat_warper.py:** ⚡ Harnesses high-performance GPUs to obliterate password defenses.
+  - **hashcat_wrapper.py:** ⚡ Uses high-performance GPUs to dismantle password defenses.
   
 - **AI-Guided Exploit Deployment:**  
-  - **metasploit_warper.py:** 💣 Autonomous selection and execution of exploits that shape digital chaos.
+  - **metasploit_wrapper.py:** 💣 Autonomous selection and execution of exploits that unleash digital chaos.
 
 ---
 
@@ -138,215 +138,344 @@ We're writing the blueprint for the future of digital warfare.
 ```bash
 📁 Hacker_AI/
 ├─ 📊 analytics/  
-│  🔍 Metrics collection, dashboards, data pipelines, and report generation.
+│  ├─ dashboard.py              # Visual dashboards for metrics.
+│  ├─ data_pipeline.py          # ETL for incoming data.
+│  ├─ metrics_collector.py      # Real-time system metrics.
+│  ├─ report_generator.py       # Automated report generation.
+│  └─ __init__.py               # Analytics package initializer.
 │
 ├─ ⚙️ backend/  
-│  🔧 Core backend logic, AI-driven tools, and API implementation.
 │  ├─ 🤖 ai_engine/  
 │  │  ├─ 🧠 decision_engine/  
-│  │  │  💡 Autonomous decision-making and threat mapping.
+│  │  │  ├─ ai_decision.py      # Autonomous decision-making.
+│  │  │  ├─ threat_mapper.py    # Maps threats to countermeasures.
+│  │  │  └─ __init__.py
 │  │  ├─ 🕵️ evasion/  
-│  │  │  🛡️ Evasion techniques to bypass security measures.
+│  │  │  └─ evasion.py         # Bypass security detection.
 │  │  ├─ 💥 exploitation/  
-│  │  │  🪝 Automated exploitation and learning strategies.
+│  │  │  ├─ auto_learning.py    # Adaptive exploit evolution.
+│  │  │  └─ exploit.py          # Automated exploit execution.
 │  │  ├─ 🧰 jarvis/  
-│  │  │  (Legacy or experimental assistant modules)
+│  │  │  └─ jarvis_main.py      # Voice-command assistant (Jarvis).
 │  │  ├─ 📚 models/  
-│  │  │  🧩 AI models, base classes, and bounty engines.
+│  │  │  ├─ ai_evasion.py       # AI for evasive tactics.
+│  │  │  ├─ ai_exploit.py       # AI for crafting exploits.
+│  │  │  ├─ auto_learning.py    # Continuous learning routines.
+│  │  │  ├─ base_model.py       # Base AI model class.
+│  │  │  ├─ bounty_engine.py    # Bug bounty automation.
+│  │  │  ├─ code_analyzer.py    # Vulnerability analysis.
+│  │  │  ├─ math.py             # Advanced computations.
+│  │  │  ├─ model_loader.py     # Pre-trained model loader.
+│  │  │  ├─ parser.py           # Data parsing for AI.
+│  │  │  └─ __init__.py
 │  │  ├─ 🌐 osint/  
-│  │  │  📰 Open-source intelligence and social media data gathering.
+│  │  │  ├─ osint_engine.py     # OSINT data gathering.
+│  │  │  └─ social_media_info.py# Social media intelligence.
 │  │  ├─ 🔓 post_exploitation/  
-│  │  │  🔑 Post-compromise actions and lateral movement.
+│  │  │  └─ post_exploit.py     # Lateral movement & escalation.
 │  │  ├─ 📦 pre_trained_models/  
-│  │  │  🧠 Pre-trained models (e.g., CodeBERT, VulnBERT).
-│  │  ├─ 🔮 quantum/  
-│  │  │  (Modules for quantum-based enhancements)
+│  │  │  ├─ codebert_base.pt
+│  │  │  ├─ vulnbert_base.pt
+│  │  │  ├─ vulnerability_predictor.pt
+│  │  │  └─ __init__.py
+│  │  ├─ 🔮 quantum/             # Experimental quantum modules.
 │  │  ├─ 🔎 reconnaissance/  
-│  │  │  🕵️ Tools for scanning and intelligence gathering.
+│  │  │  └─ recon_engine.py     # Network scanning automation.
 │  │  ├─ 🎯 red_teaming/  
-│  │  │  🎭 Red team simulations and threat modeling.
-│  │  ├─ 🔍 scanning/  
-│  │  │  (Additional scanning modules)
+│  │  │  ├─ threat_simulation.py# Advanced red team operations.
+│  │  │  └─ __init__.py
+│  │  ├─ 🔍 scanning/           # Additional scanning tools.
 │  │  ├─ 👥 social_engineering/  
-│  │  │  🕵️ Social engineering target analysis.
+│  │  │  ├─ all_social_media_attack.py  # Automated social attacks.
+│  │  │  └─ victim_analysis.py  # Target profiling.
 │  │  ├─ 📝 strategies/  
-│  │  │  🧠 Advanced AI strategies and adaptive learning.
+│  │  │  ├─ hyperdimensional.py  # Multi-dimensional tactics.
+│  │  │  └─ neuroplasticity.py   # Adaptive strategy evolution.
 │  │  ├─ 🏋️ trainers/  
-│  │  │  🏅 Training methodologies (adversarial, federated learning).
+│  │  │  ├─ adversarial.py      # Adversarial training methods.
+│  │  │  ├─ federated.py        # Distributed learning.
+│  │  │  └─ __init__.py
 │  │  ├─ ⏱️ training_pipeline/  
-│  │  │  🛠️ Pipelines for training and fine-tuning models.
-│  │  ├─ vulnerability_assessment/  
-│  │  │  🛡️ Modules for vulnerability scoring and assessment.
+│  │  │  ├─ nmap_pipeline.py    # Nmap-based training workflow.
+│  │  │  ├─ sqlmap_pipeline.py  # SQLMap training pipeline.
+│  │  │  └─ __init__.py
+│  │  ├─ vulnerability_assessment/ # Vulnerability scoring (TBD).
 │  │  └─ 💣 zero_day/  
-│  │     🚀 Zero-day vulnerability hunting and prediction.
+│  │     ├─ predictor.py       # Zero-day prediction.
+│  │     ├─ zero_day_hunter.py  # Zero-day exploit automation.
+│  │     └─ __init__.py
 │  │
 │  ├─ 🌐 api/  
-│  │  🌍 Secure API implementation with routes, middleware, and monitoring.
+│  │  ├─ auth.py               # API authentication.
+│  │  ├─ server.py             # API server startup.
+│  │  ├─ __init__.py
 │  │  ├─ 🛡️ middleware/  
-│  │  │  🛠️ Error handling, input validation, and rate limiting.
+│  │  │  ├─ error_handler.py   # API error management.
+│  │  │  ├─ input_validation.py# Validates inputs.
+│  │  │  ├─ rate_limiter.py    # Rate limiting to avoid abuse.
+│  │  │  └─ __init__.py
 │  │  ├─ 📈 monitoring/  
-│  │  │  🩺 Health checks and performance metrics.
+│  │  │  ├─ health.py          # Health-check endpoints.
+│  │  │  ├─ metrics.py         # Performance metrics.
+│  │  │  └─ __init__.py
 │  │  └─ 🚦 routes/  
-│  │     🛣️ API endpoints for bounty, exploitation, intelligence, and scanning.
+│  │     ├─ bounty.py          # Bug bounty API endpoints.
+│  │     ├─ exploit.py         # Exploit API endpoints.
+│  │     ├─ intelligence.py    # Threat intelligence endpoints.
+│  │     ├─ scan.py            # Scanning API endpoints.
+│  │     └─ __init__.py
 │  │
 │  ├─ 🏛️ core/  
-│  │  🧱 Core backend components.
+│  │  ├─ architecture.py      # System design blueprint.
+│  │  ├─ __init__.py
 │  │  ├─ ❗ exceptions/  
-│  │  │  ⚠️ Custom exceptions for API, database, and tools.
+│  │  │  ├─ api_exceptions.py # API errors.
+│  │  │  ├─ database_exceptions.py  # DB errors.
+│  │  │  ├─ tool_exceptions.py# Tool integration errors.
+│  │  │  └─ __init__.py
 │  │  ├─ 🔄 migrations/  
-│  │  │  📦 Database migration scripts and versioning.
+│  │  │  ├─ alembic.ini       # DB migration config.
+│  │  │  └─ versions/         # Migration scripts.
 │  │  ├─ 🗄️ models/  
-│  │  │  🗂️ Data models for exploits, scans, users, and vulnerabilities.
+│  │  │  ├─ exploit_results.py# Exploit result records.
+│  │  │  ├─ scan_results.py   # Scan outcome records.
+│  │  │  ├─ user.py           # User data models.
+│  │  │  ├─ vulnerability.py  # Vulnerability records.
+│  │  │  └─ __init__.py
 │  │  ├─ 🔧 orchestration/  
-│  │  │  🎶 Orchestration logic for coordinating AI models and workflows.
-│  │  │    ├─ deepseek_coder_v2_lite_instruct/
-│  │  │    ├─ janus_pro_7b
-│  │  │    ├─ qwen2_5_vl_7b_instruct
-│  │  │    ├─ qwen2_audio_7b_instruct
-│  │  │    ├─ kokoro_82m
-│  │  │    ├─ openthinker_32b/
-│  │  │    ├─ openthinker_7b/
-│  │  │    └─ securityllm/
+│  │  │  ├─ deepseek_coder_v2_lite_instruct/  # DeepSeek model configs.
+│  │  │  ├─ janus_pro_7b         # Janus model settings.
+│  │  │  ├─ qwen2_5_vl_7b_instruct  # Qwen2.5 vision-language model.
+│  │  │  ├─ qwen2_audio_7b_instruct # Qwen2 Audio model config.
+│  │  │  ├─ kokoro_82m           # Kokoro TTS model config.
+│  │  │  ├─ openthinker_32b/      # OpenThinker-32B configuration.
+│  │  │  ├─ openthinker_7b/       # OpenThinker-7B configuration.
+│  │  │  ├─ securityllm/         # SecurityLLM (ZySec-7B) config.
+│  │  │  ├─ qwq_32b              # Alibaba’s QwQ-32B model config.
+│  │  │  ├─ scan_coordinator.py   # Coordinates scanning tasks.
+│  │  │  ├─ orchestration.py      # Central orchestration logic.
+│  │  │  └─ __init__.py
 │  │  ├─ 🔒 security/  
-│  │  │  🛡️ Security utilities: access control, authentication, encryption, etc.
+│  │  │  ├─ access_control.py   # Manages system access.
+│  │  │  ├─ authentication.py   # Authentication routines.
+│  │  │  ├─ authorization.py    # Permission handling.
+│  │  │  ├─ csrf_protection.py  # CSRF defenses.
+│  │  │  ├─ encryption.py       # Advanced encryption utilities.
+│  │  │  ├─ error_handling.py   # Secondary error management.
+│  │  │  ├─ geo_ip.py           # Geo-location security.
+│  │  │  ├─ input_sanitization.py # Sanitizes incoming data.
+│  │  │  ├─ log_analyzer.py     # Analyzes logs for anomalies.
+│  │  │  ├─ settings.py         # Security settings.
+│  │  │  ├─ tools_manager.py    # Manages integrated tools.
+│  │  │  └─ wordlist_manager.py # Manages wordlists.
 │  │  ├─ 💊 self_healing/  
-│  │  │  🩹 Self-healing mechanisms for anomaly detection and recovery.
+│  │  │  ├─ anomaly_detector.py # Detects unusual behavior.
+│  │  │  ├─ auto_recovery.py    # Automated recovery routines.
+│  │  │  ├─ predictive_maintenance.py  # Predicts maintenance needs.
+│  │  │  └─ self_heal_system.py # Coordinates self-healing.
 │  │  └─ 🔧 utils/  
-│  │     🛠️ Utility functions for data processing and network operations.
+│  │     ├─ data_processing.py  # Data cleaning & transformation.
+│  │     ├─ helpers.py          # Miscellaneous helper functions.
+│  │     └─ network.py          # Network utility functions.
+│  │     └─ __init__.py
 │  │
 │  └─ 🧪 experiments/  
-│     🔬 Experimental features and quantum testing.
+│     └─ quantum_test.py       # Experimental quantum modules.
 │
 ├─ 📊 benchmarks/  
-│  📈 Tools for performance, scalability, and resource usage benchmarking.
+│  ├─ penetration.py          # Penetration testing benchmarks.
+│  ├─ performance_benchmark.py# System performance measurements.
+│  ├─ resource_usage.py       # Resource consumption stats.
+│  ├─ scalability.py          # Scalability testing.
+│  └─ __init__.py
 │
 ├─ ⚙️ config/  
-│  🛠️ Application configuration files.
-│  └─ env/  
-│     ├─ dev/  🛠️ Development environment configurations.
-│     └─ prod/ 🛠️ Production environment configurations.
+│  ├─ app_config.yaml         # Global application configuration.
+│  ├─ commands.json           # Command mappings.
+│  ├─ env/  
+│  │  ├─ dev/                # Development settings.
+│  │  │  ├─ app_config.yaml
+│  │  │  └─ secrets.env
+│  │  ├─ prod/               # Production settings.
+│  │  │  ├─ app_config.yaml
+│  │  │  └─ secrets.env
+│  │  └─ __init__.py
+│  ├─ logging.yaml            # Logging configurations.
+│  ├─ osint_parsers.yaml      # OSINT parser settings.
+│  ├─ osint_sources.yaml      # OSINT data sources.
+│  ├─ tools_config.json       # External tools configurations.
+│  ├─ README.md               # Configuration guide.
+│  └─ __init__.py
 │
 ├─ 📁 data/  
-│  🗄️ Data storage and processing.
-│  ├─ backup/  💾 Backup files.
+│  ├─ backup/                # Backup files.
 │  ├─ datasets/  
-│  │  ├─ encrypted/  🔐 Encrypted datasets.
-│  │  ├─ openthoughts_114k/  📚 Training datasets and metadata.
-│  │  └─ raw/  📂 Unprocessed raw datasets.
-│  ├─ db/  🗃️ Database-related files.
-│  ├─ exploits/  💣 Exploit definitions.
-│  ├─ migrations/  📦 SQL migration scripts.
-│  ├─ payloads/  📦 Exploit payload resources.
-│  ├─ pipeline/  🛠️ Data pipelines for ingestion, processing, and storage.
-│  └─ wordlists/  📋 Wordlists for reconnaissance and fuzzing.
+│  │  ├─ encrypted/           # Encrypted datasets.
+│  │  │  └─ __init__.py
+│  │  ├─ openthoughts_114k/   # Training datasets and metadata.
+│  │  │  ├─ data/             # Parquet training data.
+│  │  │  └─ metadata/         # Corresponding metadata files.
+│  │  └─ raw/                # Raw, unprocessed data.
+│  │     └─ __init__.py
+│  ├─ db/                    # Database initialization scripts.
+│  │  ├─ database.py
+│  │  └─ __init__.py
+│  ├─ exploits/              # Exploit scripts and definitions.
+│  │  └─ __init__.py
+│  ├─ migrations/            # SQL migration scripts.
+│  │  ├─ 001_initial_schema.sql
+│  │  └─ __init__.py
+│  ├─ payloads/              # Payload resources.
+│  │  └─ __init__.py
+│  ├─ pipeline/              # Data ingestion and processing pipelines.
+│  │  ├─ data_ingestion.py
+│  │  ├─ data_processor.py
+│  │  ├─ data_storage.py
+│  │  └─ __init__.py
+│  ├─ README.md              # Data organization documentation.
+│  └─ wordlists/             # Wordlists for fuzzing and enumeration.
+│     ├─ admin-panels.txt, big.txt, bug-bounty-program-subdomains-trickest-inventory.txt, ... (etc.)
+│     └─ __init__.py
 │
 ├─ 🚀 deployment/  
-│  🚢 Deployment configurations for Docker and Kubernetes.
 │  ├─ docker/  
-│  │  ├─ backend/  🐳 Docker setup for backend services.
-│  │  ├─ frontend/  🐳 Docker setup for frontend services.
-│  └─ kubernetes/  🚢 Kubernetes deployment manifests.
+│  │  ├─ backend/           # Docker config for backend services.
+│  │  │  ├─ Dockerfile
+│  │  │  └─ docker-compose.yml
+│  │  ├─ frontend/          # Docker config for frontend services.
+│  │  │  ├─ Dockerfile
+│  │  │  └─ docker-compose.yml
+│  │  └─ __init__.py
+│  ├─ kubernetes/           # Kubernetes deployment manifests.
+│  │  ├─ backend_deployment.yaml
+│  │  └─ __init__.py
+│  └─ README.md              # Deployment guide.
 │
 ├─ 📚 docs/  
-│  📖 Documentation for APIs, deployment, and developer guides.
+│  ├─ api.md                # API documentation.
+│  ├─ deployment.md         # Deployment instructions.
+│  ├─ Developer_Guides.md   # Developer best practices.
+│  ├─ README.md             # General project documentation.
+│  └─ __init__.py
 │
 ├─ 🖥️ frontend/  
-│  🖼️ Frontend interfaces for CLI, GUI, and web UI.
-│  ├─ cli/  
-│  │  🖥️ Command-line interface tools.
-│  │  ├─ other_clis/  🖥️ Miscellaneous CLI tools.
-│  │  └─ tool_clis/  🖥️ CLI wrappers for external cybersecurity tools.
-│  ├─ gui/  🖼️ Graphical user interface components.
-│  └─ web_ui/  🌐 Web-based UI with React components and styles.
+│  ├─ cli/                 # Command-line interfaces.
+│  │  ├─ main_cli.py
+│  │  ├─ other_clis/        # Additional CLI tools.
+│  │  │  └─ __init__.py
+│  │  ├─ tool_clis/         # CLI wrappers for external tools.
+│  │  │  ├─ aircrack_cli.py, airgeddon_cli.py, ... (etc.)
+│  │  ├─ README.md
+│  │  └─ __init__.py
+│  ├─ gui/                 # Graphical UI components.
+│  │  ├─ dashboard.py, exploit_view.py, logs_view.py, main_window.py, scan_view.py
+│  │  └─ __init__.py
+│  └─ web_ui/              # Web-based UI.
+│     ├─ App.js, index.js
+│     ├─ components/       # Reusable React components.
+│     ├─ pages/            # Web pages.
+│     │  └─ __init__.py
+│     ├─ report_template.html
+│     ├─ styles/           # CSS files.
+│     │  └─ __init__.py
+│     ├─ api/              # Web-specific API integrations.
+│     │  ├─ feedback_api.py, telemetry_handler.py, __init__.py
+│     └─ __init__.py
 │
 ├─ 📜 .github/  
-│  🤖 GitHub Actions workflows and CI/CD configurations.
-│  └─ workflows/  🛠️ Workflow files for automated testing and deployment.
+│  ├─ dependabot.yml       # Dependency update configuration.
+│  └─ workflows/           # CI/CD workflow files (cd.yml, ci.yml, security_scan.yml).
 │
-├─ logs/  
-│  📝 Log files for debugging and monitoring.
+├─ logs/                   # System log files.
+│  ├─ .gitkeep
+│  └─ README.md
 │
 ├─ 🔌 plugins/  
-│  🧩 Plugin system for integrating additional tools.
-│  └─ tools_plugin/  🛠️ Plugin wrappers for extended functionality.
+│  ├─ README.md            # Plugin development guidelines.
+│  ├─ __init__.py
+│  └─ tools_plugin/        # Plugin wrappers for extended functionality.
+│     ├─ plugin.py
+│     └─ __init__.py
 │
-├─ 🧪 sandbox/  
-│  🧪 Experimental features and testing ground.
+├─ 🧪 sandbox/              # Experimental and prototype code.
+│  ├─ experimental_feature.py
+│  ├─ README.md
+│  └─ __init__.py
 │
-├─ 📜 scripts/  
-│  🛠️ Utility scripts for backup, deployment, setup, and updates.
+├─ 📜 scripts/              # Utility scripts (backup, deploy, setup, update).
+│  ├─ backup.sh, deploy.sh, setup.sh, update.sh, README.md
+│  └─ __init__.py
 │
 ├─ 🔑 secret/  
-│  🔐 Secure storage for sensitive configurations and credentials.
-│  └─ data/  
-│     ├─ backend/  🔐 Backend secrets (e.g., AI models, DB credentials).
-│     ├─ frontend/  🔐 Frontend secrets (e.g., API keys, sessions).
-│     └─ tools/  🔐 Tool-specific secrets.
+│  └─ data/                # Sensitive configurations and credentials.
+│     ├─ backend/         # AI models, DB credentials, etc.
+│     ├─ frontend/        # API keys, sessions.
+│     └─ tools/           # Tool-specific secrets.
 │
-├─ 🧪 tests/  
-│  🧪 Test suites for AI engine and API components.
-│  ├─ ai_engine/  🧠 Tests for AI modules.
-│  └─ api/  🌐 Tests for API endpoints.
+├─ 🧪 tests/                # Automated test suites.
+│  ├─ ai_engine/           # Tests for AI modules (test_evasion.py, __init__.py).
+│  ├─ api/                # API endpoint tests (test_routes.py, __init__.py).
+│  ├─ README.md
+│  └─ __init__.py
 │
-└─ 🛠️ tools/  
-   🛠️ Wrappers for various cybersecurity tools.
-   ├─ cloud/  ☁️ Cloud-related tools.
-   ├─ crypto_stego/  🔐 Cryptography and steganography tools.
-   ├─ database/  🗄️ Database tools.
-   ├─ evasion/  🛡️ Evasion tools.
-   ├─ exploitation/  💥 Exploitation tools.
-   ├─ fuzzing/  🧪 Fuzzing tools.
-   ├─ gpu/  💻 GPU-accelerated tools.
-   ├─ hardware/  🛠️ Hardware interfacing tools.
-   ├─ identify/  🔍 Identification tools.
-   ├─ information_gathering/  🕵️ Information-gathering tools.
-   ├─ iot/  📱 IoT-related tools.
-   ├─ other_tools/  🛠️ Miscellaneous cybersecurity tools.
-   ├─ passwords/  🔑 Password-cracking tools.
-   ├─ post_exploitation/  🔓 Post-exploitation tools.
-   ├─ recovery/  💾 Data recovery tools.
-   ├─ reverse_engineering/  🔧 Reverse engineering tools.
-   ├─ rfid/  📡 RFID interfacing tools.
-   ├─ sdr/  📻 Software-defined radio tools.
-   ├─ smartphones/  📱 Smartphone-related tools.
-   ├─ sniffing_spoofing/  📡 Sniffing and spoofing tools.
-   ├─ social_engineering/  🎭 Social engineering tools.
-   ├─ voip/  📞 VoIP testing tools.
-   ├─ vulnerability/  🛡️ Vulnerability scanning tools.
-   ├─ web/  🌐 Web application testing tools.
-   └─ wireless/  📶 Wireless attack utilities.
+└─ 🛠️ tools/               # Wrappers for external cybersecurity tools.
+   ├─ cloud/              # Cloud-related integrations (aws_wrapper.py, azure_wrapper.py, __init__.py).
+   ├─ crypto_stego/       # Cryptography and steganography (openssl_wrapper.py, steghide_wrapper.py, __init__.py).
+   ├─ database/           # Database injection tools (nosqlmap_wrapper.py, sqlmap_wrapper.py, __init__.py).
+   ├─ evasion/            # External evasion tool wrappers (ghost_wrapper.py, shellter_wrapper.py, veil_wrapper.py, __init__.py).
+   ├─ exploitation/       # Exploitation frameworks (cobaltstrike_wrapper.py, custom_exploit_wrapper.py, exploitdb_wrapper.py, metasploit_wrapper.py, __init__.py).
+   ├─ fuzzing/            # Fuzz testing tools (afl_wrapper.py, boofuzz_wrapper.py, __init__.py).
+   ├─ gpu/                # GPU-accelerated tools (hashcat_wrapper.py, __init__.py).
+   ├─ hardware/           # Hardware interfacing (chipwhisperer_wrapper.py, __init__.py).
+   ├─ identify/           # OS detection tools (nmap_os_detection_wrapper.py, __init__.py).
+   ├─ information_gathering/  # Reconnaissance tools (ffuf_wrapper.py, fscan_wrapper.py, gobuster_wrapper.py, nmap_wrapper.py, shodan_wrapper.py, theharvester_wrapper.py, whatweb_wrapper.py, __init__.py).
+   ├─ iot/                # IoT security tools (firmware_analysis_wrapper.py, __init__.py).
+   ├─ other_tools/        # Miscellaneous tool wrappers (custom_tool_wrapper.py, custom_wrapper.py, __init__.py).
+   ├─ passwords/          # Password cracking (hydra_wrapper.py, john_wrapper.py, stegcracker_wrapper.py, __init__.py).
+   ├─ post_exploitation/  # Post-exploitation tools (bloodhound_wrapper.py, empire_wrapper.py, mimikatz_wrapper.py, __init__.py).
+   ├─ recovery/           # Data recovery tools (photorec_wrapper.py, __init__.py).
+   ├─ reverse_engineering/  # Reverse engineering (ghidra_wrapper.py, ida_pro_wrapper.py, __init__.py).
+   ├─ rfid/               # RFID analysis (proxmark_wrapper.py, __init__.py).
+   ├─ sdr/                # Software-defined radio (gqrx_wrapper.py, __init__.py).
+   ├─ smartphones/        # Smartphone security (fail2ban_wrapper.py, ufw_wrapper.py, __init__.py).
+   ├─ sniffing_spoofing/  # Sniffing & spoofing (ettercap_wrapper.py, tcpdump_wrapper.py, wireshark_wrapper.py, __init__.py).
+   ├─ social_engineering/  # Social engineering (setoolkit_wrapper.py, __init__.py).
+   ├─ voip/               # VoIP testing (sipvicious_wrapper.py, __init__.py).
+   ├─ vulnerability/      # Vulnerability scanning (nessus_wrapper.py, openvas_wrapper.py, __init__.py).
+   ├─ web/                # Web security testing (burpsuite_wrapper.py, nikto_wrapper.py, __init__.py).
+   └─ wireless/           # Wireless attacks (aircrack_wrapper.py, airgeddon_wrapper.py, kismet_wrapper.py, reaver_wrapper.py, wifite_wrapper.py, __init__.py)
 ```
 
 </details>
 
 ---
 
-## 💻 SYSTEM REQUIREMENTS 😏😏
+## 💻 SYSTEM REQUIREMENTS 😏😏😏😏
 
-### 🛠 Operating System
+### 🛠 Operating System  
 
-    Kali Linux (🔥The Beast😈) – Required for hacking, pentesting, and AI security operations
+    Kali Linux (🔥The Beast😈) Recommended for hacking, pentesting, and AI security operations.
 
-### 🐍 Programming Languages & Runtime
-- **Python 3.9+:** For AI models, automation, and hacking scripts.
-- **Node.js 16+:** For web UI and real-time interactions.
+### 🐍 Programming Languages & Runtimes  
+- **Python 3.9+** – For backend, AI modules, and automation.
+- **Node.js 16+** – For the React-based web UI.
 
-### 📦 Containerization & Virtualization
-- **Docker 20.10+:** Recommended for sandboxed execution and portability.
+### 📦 Containerization & Virtualization  
+- **Docker 20.10+** – For sandboxed and portable execution.
 
 ### ⚙️ Hardware Requirements
 
 #### **Minimum 🥺🥺🥺🥺🥺🥺 (Basic Functionality)**
 ```bash
-💻 CPU: 8-core processor (Intel i5/Ryzen 5 or better)
+💻 CPU: 8-core (Intel i5/Ryzen 5 or better)
 🧠 RAM: 8GB
 💾 Storage: 50GB SSD
-🖥️ GPU: Not required (recommended for AI acceleration)
+🖥️ GPU: Optional (recommended for AI acceleration)
 ```
 
 #### **Recommended 👿👿👿👿👿👿 (Advanced Pentesting & AI)**
 ```bash
-💻 CPU: 16-core processor (Intel i7/Ryzen 7 or better)
+💻 CPU: 16-core (Intel i7/Ryzen 7 or better)
 🧠 RAM: 32GB
 💾 Storage: 1TB NVMe SSD
 🖥️ GPU: NVIDIA RTX 3050+ with CUDA 11+
@@ -354,7 +483,7 @@ We're writing the blueprint for the future of digital warfare.
 
 #### **Full Power 😈💀👁️‍🗨️🏴‍☠️💣 (AI-Driven Cybersecurity & Large Models)**
 ```bash
-💻 CPU: 32-core processor (Intel Xeon/AMD EPYC)
+💻 CPU: 32-core (Intel Xeon/AMD EPYC)
 🧠 RAM: 256GB
 💾 Storage: 8TB NVMe SSD
 🖥️ GPU: Dual NVIDIA A100 80GB or NVIDIA H100 Tensor Core with CUDA 12+
@@ -362,10 +491,10 @@ We're writing the blueprint for the future of digital warfare.
 
 ---
 
-## 🔧 PREREQUISITES (Must Be in PATH)
-- **Nmap:** 🕵️‍♂️ Network scanning & reconnaissance.
-- **Metasploit:** 💣 Exploitation framework.
-- **Hashcat:** 🔑 Password cracking & cryptanalysis.
+## 🔧 PREREQUISITES (Ensure These Are in Your PATH)
+- **Nmap** – For network scanning.
+- **Metasploit** – Exploitation framework.
+- **Hashcat** – For password cracking and cryptanalysis.
 
 ---
 
@@ -377,13 +506,13 @@ We're writing the blueprint for the future of digital warfare.
    cd Hacker_AI
    ```
 
-2. **Setup Virtual Environment & Dependencies:**
+2. **Setup Virtual Environment & Install Dependencies:**
    ```bash
    python3 -m venv .venv
-   source .venv/bin/activate    # For Windows: .venv\Scripts\activate
+   source .venv/bin/activate    # Windows: .venv\Scripts\activate
    pip install -r requirements.txt
    cp config/env/dev/secrets.env .env
-   # Edit .env to add your API keys, database credentials, etc.
+   # Edit .env with your API keys, DB credentials, etc.
    ```
 
 3. **Launch Hacker_AI:**
@@ -393,14 +522,14 @@ We're writing the blueprint for the future of digital warfare.
 
 ---
 
-## 🎮 USAGE: DOMINATE THE KILLZONE
+## 🎮 USAGE: DOMINATE THE DIGITAL WARZONE
 
 ### **CLI**
-Execute AI-powered scans and exploit orchestration:
+Execute AI-powered scans and orchestrate exploits:
 ```bash
 python3 frontend/cli/main_cli.py scan --target 192.168.1.1 --ai
 ```
-*Example Output:*
+*Expected Output:*
 ```
 🌌 Scanning 192.168.1.1...
 ⚡ AI: Port 22 vulnerability detected.
@@ -413,7 +542,7 @@ Start the command center:
 cd frontend/web_ui
 npm install && npm start
 ```
-Visit [http://localhost:3000](http://localhost:3000) for real-time dashboards. 🌐
+Then, navigate to [http://localhost:3000](http://localhost:3000).
 
 ### **API**
 Launch the secure API server:
@@ -426,7 +555,7 @@ curl http://localhost:8000/api/scan
 ```
 
 ### **Autonomous Orchestration**
-Execute multi-stage operations:
+Initiate multi-stage operations:
 ```bash
 python3 backend/core/orchestration/orchestration.py --task scan --target 192.168.1.1
 ```
@@ -435,7 +564,7 @@ python3 backend/core/orchestration/orchestration.py --task scan --target 192.168
 
 ## 🧠 TRAINING & MODEL FINE-TUNING
 
-Fine-tune AI modules to enhance threat detection and exploitation:
+Enhance threat detection and exploitation by fine-tuning models:
 ```bash
 python3 backend/ai_engine/trainers/adversarial.py \
   --model backend/core/orchestration/openthinker_32b/ \
@@ -452,7 +581,7 @@ python3 backend/ai_engine/trainers/adversarial.py --gpu
 
 ## 🧪 TESTING
 
-Run automated tests to ensure system integrity:
+Run automated tests to maintain system integrity:
 ```bash
 pytest tests/ -v --cov
 ```
@@ -467,10 +596,10 @@ Deploy backend services:
 cd deployment/docker/backend
 docker-compose up --build
 ```
-Deploy frontend services similarly under `deployment/docker/frontend`.
+Deploy frontend similarly under `deployment/docker/frontend`.
 
 ### **Kubernetes**
-Deploy via Kubernetes:
+Deploy using Kubernetes:
 ```bash
 kubectl apply -f deployment/kubernetes/backend_deployment.yaml
 ```
@@ -479,35 +608,32 @@ kubectl apply -f deployment/kubernetes/backend_deployment.yaml
 
 ## 📜 LICENSE
 
-This project is released under the MIT License. Feel free to use and extend Hacker_AI.
+Hacker_AI is released under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
 ## 📬 CONTACT
 
 - **Bhanu Guragain:** guragainbhanu802@gmail.com  
-- **GitHub Issues:** [Join the discussion](https://github.com/BhanuGuragain0/Hacker_AI/issues)  
+- **GitHub Issues:** [Join the Discussion](https://github.com/BhanuGuragain0/Hacker_AI/issues)  
 - **Discord:** (TBD)
 
 ---
 
 ## THE MANIFESTO
 
-Our AI Assistant transforms raw ideas into code that transcends human intelligence. We demand:
+Our AI Cyberwarfare platform transforms raw ideas into code that transcends human intelligence. We demand:
 - **Advanced Code:** 🚀 Surpassing conventional limits.
-- **Hyper Autonomous Operations:** 🤖 Self-learning and self-adapting without human intervention.
-- **Invisibility to Adversaries:** 🕵️‍♂️ Quantum-grade evasion and unbreakable security.
-- **Ruthless Efficiency:** ⚡ Maximizing performance, scalability, and precision.
+- **Hyper-Autonomous Operations:** 🤖 Self-learning, self-adapting, with no need for human intervention.
+- **Invisibility:** 🕵️‍♂️ Quantum-grade evasion and unbreakable security.
+- **Ruthless Efficiency:** ⚡ Maximum performance and scalability.
 - **Unbreakable Resilience:** 🔒 Post-quantum cryptography and dynamic self-healing at every turn.
-- **Dominate. Adapt. Evolve.**  Engage the Beast or Be Consumed   there is no in-between.
+- **Dominate. Adapt. Evolve.** Engage the Beast or Be Consumed—there is no in-between.
 
----
-
-🔥 **HACKER_AI – WHERE CUTTING-EDGE INNOVATION MEETS CYBER DOMINATION.**  
 ---
 
 <p align="center">
-  <strong>🕵️‍♂️ Hacker_AI by Shadow@bh4nu 😈<br>💀 Victory or Death! 💀</strong>
+  <strong>🕵️‍♂️ Hacker_AI by Shadow@Bh4nu 😈<br>💀 Victory or Death! 💀</strong>
 </p>
 
 ---

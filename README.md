@@ -51,7 +51,7 @@ We're writing the blueprint for the future of digital warfare.
 ```
 
 <p align="center">
-  <strong>💀 WELCOME TO THE FUTURE<br>😈 ADAPT OR PERISH</strong>
+  <strong>💀 WELCOME TO THE FUTURE 🧠😈<br>😈 ADAPT OR PERISH 💀</strong>
 </p>
 
 ---

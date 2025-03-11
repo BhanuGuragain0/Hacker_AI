@@ -29,7 +29,7 @@
 
 <p align="center">
   <em>
-    Engineered at Coventry University's Student Cyber Lab ⚡, <strong>Hacker_AI</strong> is a self-evolving, AI-powered war machine designed to preempt, counter, and annihilate cyber threats before they surface. With a modular design integrating autonomous decision-making, quantum-resistant cryptography, and self-healing infrastructure, Hacker_AI pushes the boundaries of digital warfare. 🔥💻
+    Engineered at Coventry University's Student Cyber Lab ⚡, <strong>Hacker_AI</strong> is a self evolving, AI powered war machine designed to preempt, counter, and annihilate cyber threats before they surface. With a modular design integrating autonomous decision making, quantum resistant cryptography, and self healing infrastructure, Hacker_AI pushes the boundaries of digital warfare. 🔥💻
   </em>
 </p>
 

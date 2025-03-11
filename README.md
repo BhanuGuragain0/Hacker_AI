@@ -51,7 +51,7 @@ We're writing the blueprint for the future of digital warfare.
 ```
 
 <p align="center">
-  <strong>💀 WELCOME TO THE FUTURE 🧠😈<br>😈 ADAPT OR PERISH 💀</strong>
+  <strong>💀 WELCOME TO THE FUTURE 🧠<br>😈 ADAPT OR PERISH 💀</strong>
 </p>
 
 ---
@@ -324,7 +324,8 @@ We're writing the blueprint for the future of digital warfare.
 ## 💻 SYSTEM REQUIREMENTS 😏😏
 
 ### 🛠 Operating System
-- **Kali Linux (The Beast):** Required for advanced hacking, pentesting, and AI security operations.
+
+    Kali Linux (🔥The Beast😈) – Required for hacking, pentesting, and AI security operations
 
 ### 🐍 Programming Languages & Runtime
 - **Python 3.9+:** For AI models, automation, and hacking scripts.

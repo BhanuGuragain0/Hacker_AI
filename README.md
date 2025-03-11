@@ -507,7 +507,7 @@ Let's code the future and transform Hacker_AI into the most feared, advanced cyb
 ---
 
 <p align="center">
-  <strong>Hacker_AI by Shadow@bh4nu 😈<br>Victory or Death! 💀</strong>
+  <strong>🕵️‍♂️ Hacker_AI by Shadow@bh4nu 😈<br>💀 Victory or Death! 💀</strong>
 </p>
 
 ---

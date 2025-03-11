@@ -503,8 +503,7 @@ Our AI Assistant transforms raw ideas into code that transcends human intelligen
 
 ---
 
-🔥 **HACKER_AI – WHERE CUTTING-EDGE INNOVATION MEETS RELENTLESS CYBER DOMINATION.**  
-Let's code the future and transform Hacker_AI into the most feared, advanced cyberwar machine in history.  
+🔥 **HACKER_AI – WHERE CUTTING-EDGE INNOVATION MEETS CYBER DOMINATION.**  
 ---
 
 <p align="center">

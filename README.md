@@ -29,7 +29,7 @@
 
 <p align="center">
   <em>
-    Engineered at Coventry University's Student Cyber Lab ⚡, <strong>Hacker_AI</strong> is a self-evolving, AI-powered war machine designed to preempt, counter, and annihilate cyber threats before they surface. With a modular design integrating autonomous decision making, quantum-resistant cryptography, and self-healing infrastructure, Hacker_AI pushes the boundaries of digital warfare. 🔥💻
+    Engineered at Coventry University's Student Cyber Lab ⚡, <strong>Hacker_AI</strong> is a self evolving, AI powered war machine designed to preempt, counter, and annihilate cyber threats before they surface. With a modular design integrating autonomous decision making, quantum-resistant cryptography, and self healing infrastructure, Hacker_AI pushes the boundaries of digital warfare. 🔥💻
   </em>
 </p>
 
@@ -51,7 +51,7 @@ We're writing the blueprint for the future of digital warfare.
 ```
 
 <p align="center">
-  <strong>💀 WELCOME TO THE FUTURE 🧠<br>😈 ADAPT OR PERISH 💀</strong>
+  <strong>💀 WELCOME TO THE FUTURE 😈 ADAPT OR PERISH 💀</strong>
 </p>
 
 ---
@@ -608,7 +608,7 @@ kubectl apply -f deployment/kubernetes/backend_deployment.yaml
 
 ## 📜 LICENSE
 
-Hacker_AI is released under the MIT License. See [LICENSE](LICENSE) for details.
+    Hacker_AI is released under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
@@ -624,7 +624,7 @@ Hacker_AI is released under the MIT License. See [LICENSE](LICENSE) for details.
 
 Our AI Cyberwarfare platform transforms raw ideas into code that transcends human intelligence. We demand:
 - **Advanced Code:** 🚀 Surpassing conventional limits.
-- **Hyper-Autonomous Operations:** 🤖 Self-learning, self-adapting, with no need for human intervention.
+- **Hyper Autonomous Operations:** 🤖 Self-learning, self-adapting, with no need for human intervention.
 - **Invisibility:** 🕵️‍♂️ Quantum-grade evasion and unbreakable security.
 - **Ruthless Efficiency:** ⚡ Maximum performance and scalability.
 - **Unbreakable Resilience:** 🔒 Post-quantum cryptography and dynamic self-healing at every turn.

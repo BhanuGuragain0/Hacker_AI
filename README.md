@@ -179,7 +179,7 @@ Our diverse agent network is the frontline of Hacker_AI, designed for:
 │   │   │   ├── janus_pro_7b  
 │   │   │   ├── kokoro_82m  
 │   │   │   ├── openthinker_32b  
-│   │   │   ├── openthinker_7b [**ADDED**]  
+│   │   │   ├── openthinker_7b
 │   │   │   ├── qwen2_5_vl_7b_instruct  
 │   │   │   ├── qwen2_audio_7b_instruct  
 │   │   │   ├── qwq_32b  

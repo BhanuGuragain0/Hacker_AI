@@ -426,7 +426,7 @@ MIT License with Quantum Domination Clause. Check [LICENSE](LICENSE).
 
     guragainbhanu802@gmail.com  
 
----
+
 ## THE MANIFESTO
 
 Our AI Cyberwarfare platform transforms raw ideas into code that transcends human intelligence. We demand:
@@ -437,7 +437,7 @@ Our AI Cyberwarfare platform transforms raw ideas into code that transcends huma
 - **Unbreakable Resilience:** 🔒 Post-quantum cryptography and dynamic self-healing.
 - **Dominate. Adapt. Evolve. Engage the Beast or Be Consumed—there is no in-between.**
 
-
+---
 <p align="center">
   <strong>🔥🕵️‍♂️ Hacker_AI by Shadow@Bh4nu 😈<br>💀 Victory or Death! 💀</strong><br>
 </p>

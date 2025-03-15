@@ -434,8 +434,10 @@ Our AI Cyberwarfare platform transforms raw ideas into code that transcends huma
 - **Invisibility:** 🕵️‍♂️ Quantum-grade evasion and unbreakable security.
 - **Ruthless Efficiency:** ⚡ Maximum performance and scalability.
 - **Unbreakable Resilience:** 🔒 Post-quantum cryptography and dynamic self-healing.
-- **Dominate. Adapt. Evolve. Engage the Beast or Be Consumed—there is no in-between.**
-
+  
+  ```bash
+  Dominate 😈 Adapt 🕵️‍♂️ Evolve 🧠💀 Engage the Beast or Be Consumed there is no in between 😈💀
+  ```
 ---
 <p align="center">
   <strong>🔥🕵️‍♂️ Hacker_AI by Shadow@Bh4nu 😈<br>💀 Victory or Death! 💀</strong><br>

@@ -412,7 +412,7 @@ python3 backend/ai_engine/trainers/adversarial.py --gpu
 
 ## 🤝 Join the Legion
 ```markdown
-Ready to hack the future? Join our cyberwarfare legion. 
+Ready to hack the future? Join our cyberwarfare legion 💀 
 ```
 ---
 

@@ -39,10 +39,9 @@
 
 ## 🚀 Mission & VISION
 
-```markdown
-⚡ Hacker_AI 🧠💀
-"Strike First. Strike Hard. Leave Nothing."
+  <strong>🧑‍💻 Strike First 😈 Strike Hard 💀 Leave Nothing 🧠</strong>
 
+```markdown
 - 💣 Hunt threats autonomously with zero human lag.  
 - 🔧 Lock down ops with quantum-grade encryption.  
 - 🤖 Evolve faster than the enemy can blink.  

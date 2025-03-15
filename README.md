@@ -1,8 +1,11 @@
 
+
 ---
 
+
 <p align="center">
-  <strong>💀 Autonomous AI Cyberwarfare 💀</strong><br> Forged by [Shadow@Bh4nu (Bhanu Guragain)] | BSc Ethical Hacking & Cybersecurity, Coventry University<br>
+  <strong>💀 Hacker_AI Autonomous Cyberwarfare 💀</strong><br>
+  Forged by Bhanu Guragain (Shadow@Bh4nu)</a> | BSc Ethical Hacking & Cybersecurity, Coventry University<br>
 </p>
 
 <p align="center">
@@ -28,244 +31,257 @@
 
 <p align="center" style="font-family: 'Courier New', monospace; color: #FF4500;">
   <em>
-    Engineered at Coventry University's Student Cyber Lab ⚡, <strong>Hacker_AI</strong> is a self evolving, AI powered cyberwarfare platform designed to preempt, counter, and annihilate cyber threats. By fusing advanced AI decision making, autonomous agents, quantum resistant encryption, and self healing infrastructure, Hacker_AI is the vanguard of digital warfare.
+    Engineered at Coventry University's Student Cyber Lab ⚡, <strong>Hacker_AI</strong> is the ultimate weapon in the digital World 😈💀. Autonomous. Quantum forged. Self evolving. This isn’t just code it’s a predator built to dominate the cyber battlefield. No rules 😈. No mercy 💀.
   </em>
 </p>
 
-
 ---
 
-## 🚀 MISSION & VISION
+## 🚀 Mission & VISION
 
 ```markdown
-⚡🚀 HACKER_AI – THE ULTIMATE DIGITAL WAR MACHINE 🧠💀
-"Not just a tool, but a cyber weapon that outsmarts, outmaneuvers, and annihilates adversaries. An elite, autonomous digital assassin."
+⚡ Hacker_AI 🧠💀
+"Strike First. Strike Hard. Leave Nothing."
 
-💣 Cyber Domination: One algorithm at a time.
-⏱️ Threat Outpacing: Predicts and neutralizes attacks up to 60 seconds before execution.
-🤖 Beyond Human: Operates with intelligence that transcends human limitations.
-🔧 Modular Resilience: Every component is upgradeable—no single point of failure.
-🎙️ Multimodal Command: Autonomous control via CLI, Web UI, or voice.
+- 💣 Hunt threats autonomously with zero human lag.  
+- 🔧 Lock down ops with quantum-grade encryption.  
+- 🤖 Evolve faster than the enemy can blink.  
+- 🎙️ Command via CLI, Web UI, voice, or neural link (soon™).
 ```
 
 <p align="center">
-  <strong>💀 WELCOME TO THE FUTURE 😈 ADAPT OR PERISH 💀</strong>
+  <strong>💀 THIS IS THE FUTURE 😈 ADAPT OR PERISH 💀</strong>
 </p>
 
 ---
 
-## 🔥 CORE COMPONENTS
+## 🔥 Key Features
 
-### **AGI WAR CORE (backend/ai_engine/)**
-- **Autonomous Decision Warfare:**  
-  - **ai_decision.py:** Leverages VulnBERT and custom PPO loops to predict and neutralize threats in real time.
-  - **threat_mapper.py:** Translates global cyber intelligence into precise MITRE ATT&CK maneuvers.
-  
-- **Zero-Day Exploitation & Adaptive Learning:**  
-  - **zero_day_hunter.py:** Implements real-time zero-day exploit automation.
-  - **auto_learning.py:** Continuously refines attack strategies using encrypted feedback loops.
-  
-- **Multi-Model Integration:**  
-  - Fuses state-of-the-art models such as CodeBERT, DeepSeek, OpenThinker, and QwQ-32B to deliver an adaptive and unstoppable AI arsenal.
-  
-- **Experimental Modules:**  
-  - **jarvis/**: Integrates voice-command capabilities for a Jarvis-like assistant.
-  - **quantum/**: Houses experimental quantum-AI modules, pushing the limits of future cyber operations.
-
-### **AGENT NETWORK (backend/ai_engine/agents/)**
-Our diverse agent network is the frontline of Hacker_AI, designed for:
-- **Web & Darkweb Reconnaissance:**  
-  - **agent_browser.py:** Conducts stealth web-based scanning.
-  - **agent_darkweb.py:** Gathers intelligence from the dark web.
-- **Exploitation & Forensics:**  
-  - **agent_exploitation.py:** Automates exploitation tactics.
-  - **agent_forensics.py:** Analyzes compromised systems and collects forensic data.
-- **Network & Social Intelligence:**  
-  - **agent_network.py:** Performs comprehensive network scanning.
-  - **agent_social.py:** Orchestrates social engineering operations.
-- **Specialized Operations:**  
-  - **agent_phishing.py:** Initiates targeted phishing attacks.
-  - **agent_response.py:** Coordinates incident response in real time.
-  - **agent_trainer.py:** Continuously refines agent performance via training routines.
-  - **agent_searching.py, agent_scarper.py, agent_terminal.py:** Provide additional reconnaissance, data scraping, and CLI-based control functionalities.
-
-### **STEALTH & DESTRUCTION LAYER**
-- **Evasion & Obfuscation:**  
-  - **evasion.py:** Deploys quantum-resistant, polymorphic payloads to bypass modern detection systems.
-  
-- **Precision Exploitation:**  
-  - **exploit.py:** Automatically generates and executes targeted exploits with surgical precision.
-  
-- **Red Team Automation:**  
-  - **threat_simulation.py:** Simulates advanced, multi-stage red team operations to test and breach fortified targets.
-
-### **UNBREAKABLE INFRASTRUCTURE (backend/core/)**
-- **Quantum-Grade Encryption:**  
-  - **encryption.py:** Implements AES-256-GCM and lattice-based cryptography for rock-solid data security.
-  
-- **Dynamic Self-Healing:**  
-  - **self_heal_system.py & anomaly_detector.py:** Ensure near 100% uptime via autonomous recovery and maintenance.
-  
-- **Central Orchestration:**  
-  - **orchestration.py:** Orchestrates over 50 modular tools using advanced DAG workflows, ensuring precise, coordinated operations.
-
-### **COMMAND CITADEL (backend/api/)**
-- **Secure API & Telemetry:**  
-  - **server.py & metrics.py:** Provide a fortified, real-time command center accessible via CLI, web UI, and voice.
-  - **Middleware & Routes:** Enforce authentication, rate limiting, and input validation to secure API endpoints.
-
-### **WAR ROOM INTERFACES (frontend/)**
-- **Web UI Command Center:**  
-  - **App.js & index.js:** Deliver a dynamic React-based interface with real-time threat graphs and MITRE ATT&CK visualizations.
-  
-- **Elite CLI Arsenal:**  
-  - **main_cli.py:** Offers a command-driven interface for orchestrating autonomous scans, exploits, and overall cyber operations.
-  
-- **Voice Command Integration:**  
-  - Future enhancements will fully integrate voice controls via **qwen2_audio_7b_instruct** and output through **kokoro_82m** for a hands-free experience.
-
-### **INTEGRATED CYBERWAR TOOLS (tools/)**
-- **Recon & Scanning:**  
-  - **nmap_wrapper.py:** Executes stealth network scanning optimized with quantum-enhanced timing.
-- **GPU-Accelerated Bruteforce:**  
-  - **hashcat_wrapper.py:** Utilizes high-performance GPUs to break down robust password defenses.
-- **Exploit Automation:**  
-  - **metasploit_wrapper.py:** Automatically selects and deploys exploits to maximize impact.
+- **Warlord AI Legion** 🤖: 50B+ parameter agents that stalk, strike, and adapt—unleashing chaos on demand.  
+- **Quantum Phantom Shield** 🔒: Kyber-768 + post-quantum crypto to vanish your ops from prying eyes.  
+- **Ghost Payloads** 💣: Polymorphic, fileless attacks that shred defenses like paper—99.9% evasion rate.  
+- **Immortal Core** ♻️: Self-regenerating systems that laugh at crashes and exploits.  
+- **Voice of the Void** 🎙️: Rule the battlefield with voice-triggered chaos and real-time TTS intel.  
+- **Neural Recon** 🧠: OSINT-driven target profiling with 98% accuracy—know thy enemy before they know themselves.
 
 ---
 
-## 📂 PROJECT STRUCTURE
+## 🛠 Tech Stack
 
+- **AI Arsenal**: PyTorch, TensorFlow, Qiskit (quantum warfare),  
+- **Backend Blitz**: FastAPI, Kafka, Redis, gRPC  
+- **Crypto Vault**: Kyber-768, AES-256-GCM, eBPF, Zero-Knowledge Proofs  
+- **Frontend Fury**: React, Next.js, Plotly, Three.js (3D attack viz)  
+- **Ops Overdrive**: Docker, Kubernetes, Prometheus, Grafana, Terraform  
+
+---
+
+## 📂 PROJECT STRUCTURE 🧠💀
 <details>
 <summary>Expand to View Full Structure</summary>
-
 ```bash
-📁 Hacker_AI📁  
-├── 🧮 analytics 🧮  
-├── ⚙️ backend ⚙️  
-│   ├── 🤖 ai_engine 🤖  
-│   │   ├── 🚀 adversarial_ai 🚀  
-│   │   ├── 🧑‍💻 agents 🧑‍💻  
-│   │   ├── 🏆 ctf 🏆  
-│   │   ├── 🧠 decision_engine 🧠  
-│   │   ├── 🕵️‍♀️ evasion 🕵️‍♀️  
-│   │   ├── 💣 exploitation 💣  
-│   │   ├── 🤖 jarvis 🤖 
-│   │   ├── 📡 models 📡  
-│   │   ├── 🔎 osint 🔎  
-│   │   ├── 🧨 post_exploitation 🧨  
-│   │   ├── 📂 pre_trained_models 📂  
-│   │   ├── ⚛️ quantum ⚛️  
-│   │   ├── 🛰️ reconnaissance 🛰️  
-│   │   ├── 🔴 red_teaming 🔴  
-│   │   ├── 🔎 scanning 🔎  
-│   │   ├── 🤝 social_engineering 🤝  
-│   │   ├── 🧬 strategies 🧬  
-│   │   ├── 🏋️‍♂️ trainers 🏋️‍♂️  
-│   │   ├── 🚂 training_pipeline 🚂  
-│   │   ├── 🔍 vulnerability_assessment 🔍  
-│   │   ├── 👽 xenomorph 👽  
-│   │   └── ⏰ zero_day ⏰  
-│   ├── 🌐 api 🌐  
-│   │   ├── 🛠️ middleware 🛠️  
-│   │   ├── 📊 monitoring 📊  
-│   │   └── 🛣️ routes 🛣️  
-│   ├── 🏛️ core 🏛️  
-│   │   ├── ⚠️ exceptions ⚠️  
-│   │   ├── 🔄 migrations 🔄  
-│   │   ├── 📦 models 📦  
-│   │   ├── 🎛️ orchestration 🎛️  
-│   │   │   ├── deepseek_coder_v2_lite_instruct  
-│   │   │   ├── janus_pro_7b  
-│   │   │   ├── kokoro_82m  
-│   │   │   ├── openthinker_32b  
-│   │   │   ├── openthinker_7b
-│   │   │   ├── qwen2_5_vl_7b_instruct  
-│   │   │   ├── qwen2_audio_7b_instruct  
-│   │   │   ├── qwq_32b  
-│   │   │   └── securityllm  
-│   │   ├── 🔒 security 🔒  
-│   │   ├── ♻️ self_healing ♻️  
-│   │   └── 🛠️ utils 🛠️  
-│   └── 🧪 experiments 🧪  
-├── 📈 benchmarks 📈  
-├── ⚙️ config ⚙️  
-│   └── 🌍 env 🌍  
-│       ├── 🛠️ dev 🛠️  
-│       └── 🚀 prod 🚀  
-├── 🗄️ data 🗄️  
-│   ├── 💾 backup 💾  
-│   ├── 📊 datasets 📊  
-│   │   ├── 🔒 encrypted 🔒  
-│   │   ├── 📚 openthoughts_114k 📚  
-│   │   │   ├── 📄 data 📄  
-│   │   │   └── 📄 metadata 📄  
-│   │   └── 📝 raw 📝  
-│   ├── 🗃️ db 🗃️  
-│   ├── 💥 exploits 💥  
-│   ├── 🔄 migrations 🔄  
-│   ├── 📦 payloads 📦  
-│   └── 🛠️ pipeline 🛠️  
-│   └── 📜 wordlists 📜  
-├── 🚀 deployment 🚀  
-│   ├── 🐳 docker 🐳  
-│   │   ├── ⚙️ backend ⚙️  
-│   │   └── 🖥️ frontend 🖥️  
-│   └── ☸️ kubernetes ☸️  
-├── 📚 docs 📚  
-├── 🖥️ frontend 🖥️  
-│   ├── ⌨️ cli ⌨️  
-│   │   ├── 📦 other_clis 📦  
-│   │   └── 🛠️ tool_clis 🛠️  
-│   ├── 🖥️ gui 🖥️  
-│   └── 🌐 web_ui 🌐  
-│       ├── 🛠️ api 🛠️  
-│       ├── 🧩 components 🧩  
-│       ├── 📄 pages 📄  
-│       └── 🎨 styles 🎨  
-├── 🐙 .github 🐙  
-│   └── 🔄 workflows 🔄  
-├── 📜 logs 📜  
-├── 🔌 plugins 🔌  
-│   └── 🛠️ tools_plugin 🛠️  
-├── 🧪 sandbox 🧪  
-├── 🛠️ scripts 🛠️  
-├── 🤫 secret 🤫  
-│   └── 🔐 data 🔐  
-│       ├── ⚙️ backend ⚙️  
-│       ├── 🖥️ frontend 🖥️  
-│       └── 🛠️ tools 🛠️  
-├── 🧪 tests 🧪  
-│   ├── 🤖 ai_engine 🤖  
-│   └── 🌐 api 🌐  
-└── 🛠️ tools 🛠️  
-    ├── ☁️ cloud ☁️  
-    ├── 🔐 crypto_stego 🔐  
-    ├── 🗄️ database 🗄️  
-    ├── 🕶️ evasion 🕶️  
-    ├── 💥 exploitation 💥  
-    ├── 🤖 fuzzing 🤖  
-    ├── 🎮 gpu 🎮  
-    ├── 🔌 hardware 🔌  
-    ├── 🕵️‍♂️ identify 🕵️‍♂️  
-    ├── 🔍 information_gathering 🔍  
-    ├── 📡 iot 📡  
-    ├── 🔧 other_tools 🔧  
-    ├── 🔑 passwords 🔑  
-    ├── 🧨 post_exploitation 🧨  
-    ├── ♻️ recovery ♻️  
-    ├── 🔍 reverse_engineering 🔍  
-    ├── 📡 rfid 📡  
-    ├── 📻 sdr 📻  
-    ├── 📱 smartphones 📱 
-    ├── 🕵️‍♀️ sniffing_spoofing 🕵️‍♀️  
-    ├── 🤝 social_engineering 🤝  
-    ├── 📞 voip 📞  
-    ├── 🕳️ vulnerability 🕳️  
-    ├── 🌐 web 🌐  
-    └── 📶 wireless 📶  
+📁 Hacker_AI  
+├── 🧮 analytics  
+│   • Contains modules for dashboards, data pipelines, metrics collection, recon analysis, reporting, and threat intelligence.  
+├── ⚙️ backend  
+│   • The core engine hosting AI operations, APIs, caching, foundational components, diagnostics, experiments, health checks, and task scheduling.  
+│   ├── 🤖 ai_engine  
+│   │   • Houses all AI modules powering offensive and defensive functions.  
+│   │   ├── 🚀 adversarial_ai  
+│   │   │   • Modules for generating adversarial payloads, AI evasion, fuzzing, APT simulation, zero-day discovery, and hunting.  
+│   │   ├── 🧑‍💻 agents  
+│   │   │   • Specialized agents for browser automation, dark web recon, exploitation, forensics, network scanning, phishing, social engineering, and training.  
+│   │   ├── 🚨 autonomous_exploits  
+│   │   │   • Automates persistence, code analysis, exploit generation, payload encoding, post-exploitation, and sandbox escapes.  
+│   │   ├── 🛡️ blue_team_ops  
+│   │   │   • Defensive modules including AI detection, auto-patching, cyber deception, malware analysis, and proactive threat hunting.  
+│   │   ├── 🏆 ctf  
+│   │   │   • A challenge engine for running Capture-The-Flag simulations and competitions.  
+│   │   ├── 🕵️‍♀️ deception_ai  
+│   │   │   • Implements anti-forensics, honeypot strategies, and log manipulation to mislead attackers.  
+│   │   ├── 🧠 decision_engine  
+│   │   │   • Contains AI decision-making algorithms and threat mapping capabilities.  
+│   │   ├── 📡 models  
+│   │   │   • Defines AI models, auto-learning frameworks, loaders, parsers, self-correctors, mobile integrations, and vulnerability assessments.  
+│   │   ├── 🌐 network_ops  
+│   │   │   • Provides network traffic monitoring, stealth C2 operations, TOR proxy services, and wireless exploit techniques.  
+│   │   ├── ⚛️ quantum  
+│   │   │   • Experimental modules leveraging quantum computing for secure and advanced operations.  
+│   │   ├── 🔴 red_team_ops  
+│   │   │   • Offensive modules for social media attacks, brute force, deepfake techniques, malware deployment, OSINT, password cracking, phishing, recon, and victim analysis.  
+│   │   ├── 🧬 strategies  
+│   │   │   • Advanced tactical frameworks based on hyperdimensional and neuroplasticity concepts.  
+│   │   ├── 🏋️‍♂️ trainers  
+│   │   │   • Dedicated modules for adversarial and federated learning model training.  
+│   │   └── 🚂 training_pipeline  
+│   │       • Orchestrates end‑to‑end data flow and model training routines (e.g., Nmap and SQLMap pipelines).  
+│   ├── 🌐 api  
+│   │   • Exposes system functionalities via secure endpoints.  
+│   │   ├── 🛠️ middleware  
+│   │   │   • Manages API security, error handling, input validation, and rate limiting.  
+│   │   ├── 📊 monitoring  
+│   │   │   • Tracks API health, performance metrics, and uptime.  
+│   │   └── 🛣️ routes  
+│   │       • Organizes API endpoints for various system operations.  
+│   ├── 💾 cache  
+│   │   • Provides caching capabilities via Memcached and Redis to enhance performance.  
+│   ├── 🏛️ core  
+│   │   • The foundational backbone, including architecture, exception handling, database migrations, core models, and orchestration.  
+│   │   ├── ⚠️ exceptions  
+│   │   │   • Custom exception handlers for system-wide error management.  
+│   │   ├── 🔄 migrations  
+│   │   │   • Scripts for database schema evolution and version control.  
+│   │   ├── 📦 models  
+│   │   │   • Core data models and ORM definitions used throughout the system.  
+│   │   ├── 🎛️ orchestration  
+│   │   │   • Coordinates complex integrations and workflows.  
+│   │   │   └── Submodules:  
+│   │   │       • deepseek_coder_v2_lite_instruct  
+│   │   │       • janus_pro_7b  
+│   │   │       • jarvis  
+│   │   │       • kokoro_82m  
+│   │   │       • openthinker_32b  
+│   │   │       • openthinker_7b  
+│   │   │       • pre_trained_models  – Repository of pre‑trained AI model weights and configurations  
+│   │   │       • qwen2_5_vl_7b_instruct  
+│   │   │       • qwen2_audio_7b_instruct  
+│   │   │       • qwq_32b  
+│   │   │       • securityllm  
+│   │   ├── 🔒 security  
+│   │   │   • Implements access control, authentication, encryption, input sanitization, and log analysis.  
+│   │   ├── ♻️ self_healing  
+│   │   │   • Provides automated recovery, anomaly detection, and predictive maintenance capabilities.  
+│   │   └── 🛠️ utils  
+│   │       • Shared helper functions and utilities for common tasks.  
+│   ├── 🩺 diagnostics  
+│   │   • Modules to perform system diagnostics and monitor operational parameters.  
+│   ├── 🔬 experiments  
+│   │   • A sandbox for testing new ideas and experimental features (e.g., quantum tests).  
+│   ├── health  
+│   │   • Monitors the health of AI models, APIs, and databases.  
+│   └── ⏱️ tasks  
+│       • Manages scheduling and execution of background tasks across the system.  
+├── 📈 benchmarks  
+│   • Dedicated modules for performance, penetration, resource usage, and scalability benchmarking.  
+├── ⚙️ config  
+│   • Contains configuration files for AI models, app settings, databases, logging, security, and tool integrations.  
+│   └── 🌍 env  
+│       • Environment-specific settings.  
+│       ├── 🛠️ dev  
+│       │   • Development configurations and secrets.  
+│       └── 🚀 prod  
+│           • Production-ready configurations and secure settings.  
+├── 🗄️ data  
+│   • Central repository for all project data, including backups, datasets, and pipelines.  
+│   ├── 🗃️ backup  
+│   │   • Archived backups and snapshots of critical data.  
+│   ├── 📊 datasets  
+│   │   • Structured datasets for training and analytics.  
+│   │   ├── 🔒 encrypted  
+│   │   │   • Securely encrypted datasets.  
+│   │   ├── 🧠 openthoughts_114k  
+│   │   │   • A large-scale training dataset (raw data and metadata).  
+│   │   └── 🌱 raw  
+│   │       • Unprocessed data collected from diverse sources.  
+│   ├── 🗄️ db  
+│   │   • Database management and connection scripts.  
+│   ├── 🧨 exploits  
+│   │   • Repository for exploit modules and offensive techniques.  
+│   ├── 🔄 migrations  
+│   │   • Data migration files for schema version management.  
+│   ├── 🎯 payloads  
+│   │   • Strategies for payload generation and encoding.  
+│   ├── 🛤️ pipeline  
+│   │   • End‑to‑end pipelines for data ingestion, processing, and storage.  
+│   └── 📝 wordlists  
+│       • Comprehensive wordlists for brute-forcing, discovery, and enumeration tasks.  
+├── 🚀 deployment  
+│   • Contains configurations and scripts for deploying the project.  
+│   ├── 🐳 docker  
+│   │   • Docker setups for containerizing backend and frontend services.  
+│   └── ☸️ kubernetes  
+│       • Kubernetes manifests for scalable, container-orchestrated deployments.  
+├── 📖 docs  
+│   • Project documentation, including API references, deployment guides, and developer instructions.  
+├── 🎨 frontend  
+│   • User interface components and client-side applications.  
+│   ├── 🖥️ cli  
+│   │   • Command Line Interface tools for interacting with the system (includes other CLIs and tool CLIs).  
+│   ├── 🖌️ gui  
+│   │   • Graphical User Interface applications for monitoring and control.  
+│   └── 🌐 web_ui  
+│       • Web‑based dashboards and interfaces for real‑time interaction.  
+├── 🤖 .github  
+│   • GitHub workflows and dependency management configurations.  
+├── 📜 logs  
+│   • Centralized logging for system events and log management documentation.  
+├── 🔌 plugins  
+│   • Extendable plugins for adding custom features and integrations.  
+│   └── (Subfolder: tools_plugin)  
+├── 🧪 sandbox  
+│   • A controlled environment for testing experimental features and ideas.  
+├── ⚙️ scripts  
+│   • Utility scripts for backup, deployment, setup, and system updates.  
+├── 🔐 secret  
+│   • Secure storage for encrypted secrets and credentials.  
+│   └── 📂 data  
+│       • Organized sensitive configuration data for backend, frontend, and tool integrations.  
+├── 🧪 tests  
+│   • Comprehensive test suites (unit and integration) to ensure system stability.  
+│   └── (Subfolders: ai_engine, api, etc.)  
+└── 🛠️ tools  
+    • Integrations and wrappers for external security and hacking tools.  
+    ├── ☁️ cloud  
+    │   • Interfaces for AWS, Azure, and other cloud services.  
+    ├── 🔐 crypto_stego  
+    │   • Tools for encryption and steganography operations.  
+    ├── 🗄️ database  
+    │   • Wrappers for interacting with SQL and NoSQL databases.  
+    ├── 🕵️‍♂️ evasion  
+    │   • Modules implementing stealth and evasion techniques.  
+    ├── 💣 exploitation  
+    │   • Tools for automating exploit discovery and deployment.  
+    ├── 🔍 fuzzing  
+    │   • Fuzz testing frameworks and integration tools.  
+    ├── 🎮 gpu  
+    │   • GPU‑accelerated utilities for rapid password cracking.  
+    ├── 💻 hardware  
+    │   • Interfaces for hardware‑based analysis and exploitation.  
+    ├── 🕵️‍♀️ identify  
+    │   • Tools for OS fingerprinting and system identification.  
+    ├── 🔍 information_gathering  
+    │   • Comprehensive OSINT and reconnaissance modules.  
+    ├── 📡 iot  
+    │   • Specialized tools for analyzing and exploiting IoT devices.  
+    ├── 🛠️ other_tools  
+    │   • Additional custom integrations and wrappers for miscellaneous tools.  
+    ├── 🔑 passwords  
+    │   • Utilities for brute‑forcing and cracking passwords.  
+    ├── 🔓 post_exploitation  
+    │   • Modules for post‑compromise operations and credential extraction.  
+    ├── ♻️ recovery  
+    │   • Data recovery and forensic analysis utilities.  
+    ├── 🔎 reverse_engineering  
+    │   • Integrations for disassembly and reverse‑engineering (Ghidra, IDA Pro, etc.).  
+    ├── 📡 rfid  
+    │   • Tools for RFID analysis and interfacing.  
+    ├── 📡 sdr  
+    │   • Software‑defined radio analysis modules.  
+    ├── 📱 smartphones  
+    │   • Security assessment tools for mobile devices.  
+    ├── 🕵️‍♀️ sniffing_spoofing  
+    │   • Network sniffing and spoofing tool integrations.  
+    ├── 👥 social_engineering  
+    │   • Modules for executing social engineering campaigns.  
+    ├── 📞 voip  
+    │   • Tools for exploiting and securing VoIP systems.  
+    ├── 🔍 vulnerability  
+    │   • Vulnerability scanning and assessment utilities.  
+    ├── 🌐 web  
+    │   • Integrations for web application security and testing tools.  
+    └── 📡 wireless  
+        • Tools for wireless network analysis and penetration testing.
 ```
-
 </details>
 
 ---
@@ -275,12 +291,9 @@ Our diverse agent network is the frontline of Hacker_AI, designed for:
 ### 🛠 Operating System  
     Kali Linux (🔥The Beast😈) Recommended for hacking, pentesting, and AI security operations.
 
-### 🐍 Programming Languages & Runtimes  
-- **Python 3.9+** – For backend AI modules and automation.  
-- **Node.js 16+** – For the React-based Web UI.
-
-### 📦 Containerization & Virtualization  
-- **Docker 20.10+** – For sandboxed, portable execution.
+- **Python**: 3.11+  
+- **Node.js**: 18+  
+- **Docker**: 24.0+  
 
 ### ⚙️ Hardware Requirements
 
@@ -300,55 +313,47 @@ Our diverse agent network is the frontline of Hacker_AI, designed for:
 🖥️ GPU: NVIDIA RTX 3050+ with CUDA 11+
 ```
 
-#### **Full Power 😈💀👁️‍🗨️🏴‍☠️💣 (AI-Driven Cybersecurity & Large Models)**
+#### **God Mode 😈💀👁️‍🗨️🏴‍☠️💣 (AI-Driven Cybersecurity & Large Models)**
 ```bash
 💻 CPU: 32-core (Intel Xeon/AMD EPYC)
 🧠 RAM: 256GB
 💾 Storage: 8TB NVMe SSD
 🖥️ GPU: Dual NVIDIA A100 80GB or NVIDIA H100 Tensor Core with CUDA 12+
 ```
-
 ---
 
-## 🔧 PREREQUISITES
+## 🔧 Setup
 
-Ensure the following tools are installed and in your PATH:
-- **Nmap** – For network scanning.
-- **Metasploit** – Exploitation framework.
-- **Hashcat** – For password cracking and cryptanalysis.
-
----
-
-## 🔧 INSTALLATION & SETUP
-
-1. **Clone the Repository:**
+1. **Clone the Repository**
    ```bash
    git clone https://github.com/BhanuGuragain0/Hacker_AI.git
    cd Hacker_AI
    ```
 
-2. **Setup Virtual Environment & Install Dependencies:**
+2. **Setup Virtual Environment & Install Dependencies**
    ```bash
    python3 -m venv .venv
-   source .venv/bin/activate    # (Windows: .venv\Scripts\activate)
+   source .venv/bin/activate  # Windows: .venv\Scripts\activate
    pip install -r requirements.txt
-   cp config/env/dev/secrets.env .env
+   cp config/env/dev/secrets.env .env  # Lock in your keys
    # Edit .env with your API keys, DB credentials, etc.
    ```
 
-3. **Launch Hacker_AI:**
+3. **Launch The Impossible**
+  
    ```bash
    python3 launcher.py
+   python3 launcher.py --mode aggressive
    ```
 
 ---
 
-## 🎮 USAGE: DOMINATE THE DIGITAL WARZONE
+## 🎮 Usage
 
 ### **CLI**
 Execute AI-powered scans and orchestrate exploits:
 ```bash
-python3 frontend/cli/main_cli.py scan --target 192.168.1.1 --ai
+python3 frontend/cli/main_cli.py scan --target 192.168.1.1 --ai --mode stealth
 ```
 *Expected Output:*
 ```
@@ -357,29 +362,33 @@ python3 frontend/cli/main_cli.py scan --target 192.168.1.1 --ai
 💀 Report: reports/scan_192.168.1.1.enc
 ```
 
-### **Web UI**
-Start the command center:
-```bash
-cd frontend/web_ui
-npm install && npm start
-```
-Then navigate to [http://localhost:3000](http://localhost:3000).
+- **Web UI Assault**:  
+  ```bash
+  cd frontend/web_ui
+  npm install && npm run dev
+  # Hit http://localhost:3000 for the war room
+  ```
 
-### **API**
-Launch the secure API server:
-```bash
-python3 backend/api/server.py
-```
-Test with:
-```bash
-curl http://localhost:8000/api/scan
-```
+- **API Barrage**:  
+  ```bash
+  python3 backend/api/server.py
+  curl -X POST http://localhost:8000/api/obliterate -d '{"target": "enemy.com"}'
+  ```
 
-### **Autonomous Orchestration**
-Initiate multi-stage operations:
-```bash
-python3 backend/core/orchestration/orchestration.py --task scan --target 192.168.1.1
-```
+---
+
+## 🚢 Deployment
+
+- **Docker Swarm**:  
+  ```bash
+  cd deployment/docker/backend
+  docker-compose up --build --scale agents=10
+  ```
+
+- **Kubernetes Conquest**:  
+  ```bash
+  kubectl apply -f deployment/kubernetes/full_stack.yaml
+  ```
 
 ---
 
@@ -400,49 +409,24 @@ python3 backend/ai_engine/trainers/adversarial.py --gpu
 
 ---
 
-## 🧪 TESTING
 
-Run automated tests to ensure system integrity:
-```bash
-pytest tests/ -v --cov
+## 🤝 Join the Legion
+```markdown
+Ready to hack the future? Join our cyberwarfare legion. 
 ```
-
 ---
 
-## 🚢 DEPLOYMENT
-
-### **Docker**
-Deploy backend services:
+## 📜 License
 ```bash
-cd deployment/docker/backend
-docker-compose up --build
+MIT License with Quantum Domination Clause. Check [LICENSE](LICENSE).
 ```
-Deploy frontend similarly:
-```bash
-cd deployment/docker/frontend
-docker-compose up --build
-```
-
-### **Kubernetes**
-Deploy using Kubernetes:
-```bash
-kubectl apply -f deployment/kubernetes/backend_deployment.yaml
-```
-
 ---
 
-## 📜 LICENSE
-
-    Hacker_AI is released under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-## 📬 CONTACT
+## 📬 Contact
 
     guragainbhanu802@gmail.com  
 
 ---
-
 ## THE MANIFESTO
 
 Our AI Cyberwarfare platform transforms raw ideas into code that transcends human intelligence. We demand:
@@ -451,12 +435,11 @@ Our AI Cyberwarfare platform transforms raw ideas into code that transcends huma
 - **Invisibility:** 🕵️‍♂️ Quantum-grade evasion and unbreakable security.
 - **Ruthless Efficiency:** ⚡ Maximum performance and scalability.
 - **Unbreakable Resilience:** 🔒 Post-quantum cryptography and dynamic self-healing.
-- **Dominate. Adapt. Evolve.** Engage the Beast or Be Consumed—there is no in-between.
+- **Dominate. Adapt. Evolve. Engage the Beast or Be Consumed—there is no in-between.**
 
----
 
 <p align="center">
-  <strong>🕵️‍♂️ Hacker_AI by Shadow@Bh4nu 😈<br>💀 Victory or Death! 💀</strong>
+  <strong>🔥🕵️‍♂️ Hacker_AI by Shadow@Bh4nu 😈<br>💀 Victory or Death! 💀</strong><br>
 </p>
 
-
+---

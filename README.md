@@ -81,205 +81,243 @@
 ```bash
 📁 Hacker_AI  
 ├── 🧮 analytics  
-│   • Contains modules for dashboards, data pipelines, metrics collection, recon analysis, reporting, and threat intelligence.  
+│   • Contains modules for dashboards, data pipelines, metrics collection, recon analysis, reporting, and threat intelligence.
+│
 ├── ⚙️ backend  
-│   • The core engine hosting AI operations, APIs, caching, foundational components, diagnostics, experiments, health checks, and task scheduling.  
+│   • The core engine powering AI operations, APIs, caching, diagnostics, experiments, health monitoring, and task scheduling.
 │   ├── 🤖 ai_engine  
-│   │   • Houses all AI modules powering offensive and defensive functions.  
+│   │   • Contains all AI/ML modules for offensive and defensive functions.
 │   │   ├── 🚀 adversarial_ai  
-│   │   │   • Modules for generating adversarial payloads, AI evasion, fuzzing, APT simulation, zero-day discovery, and hunting.  
+│   │   │   • Offensive AI techniques: adversarial payloads, evasion, fuzzing, APT simulation, zero‑day discovery, and hunting.
 │   │   ├── 🧑‍💻 agents  
-│   │   │   • Specialized agents for browser automation, dark web recon, exploitation, forensics, network scanning, phishing, social engineering, and training.  
+│   │   │   • Automated agents for browser recon, dark web intelligence, exploitation, forensics, network scanning, phishing, social engineering, and training.
 │   │   ├── 🚨 autonomous_exploits  
-│   │   │   • Automates persistence, code analysis, exploit generation, payload encoding, post-exploitation, and sandbox escapes.  
+│   │   │   • Modules for persistence, code analysis, exploit generation, payload encoding, post‑exploitation, and sandbox escapes.
 │   │   ├── 🛡️ blue_team_ops  
-│   │   │   • Defensive modules including AI detection, auto-patching, cyber deception, malware analysis, and proactive threat hunting.  
+│   │   │   • Defensive tools: AI detection, auto‑patching, cyber deception, malware analysis, and proactive threat hunting.
 │   │   ├── 🏆 ctf  
-│   │   │   • A challenge engine for running Capture-The-Flag simulations and competitions.  
+│   │   │   • A Capture‑The‑Flag challenge engine for simulations and competitions.
 │   │   ├── 🕵️‍♀️ deception_ai  
-│   │   │   • Implements anti-forensics, honeypot strategies, and log manipulation to mislead attackers.  
+│   │   │   • Implements anti‑forensics, honeypot strategies, and log manipulation to mislead attackers.
 │   │   ├── 🧠 decision_engine  
-│   │   │   • Contains AI decision-making algorithms and threat mapping capabilities.  
+│   │   │   • Contains AI‑based decision algorithms and threat mapping capabilities.
 │   │   ├── 📡 models  
-│   │   │   • Defines AI models, auto-learning frameworks, loaders, parsers, self-correctors, mobile integrations, and vulnerability assessments.  
+│   │   │   • Defines AI models, auto‑learning frameworks, loaders, parsers, self‑correctors, mobile integrations, and vulnerability assessments.
 │   │   ├── 🌐 network_ops  
-│   │   │   • Provides network traffic monitoring, stealth C2 operations, TOR proxy services, and wireless exploit techniques.  
+│   │   │   • Provides network traffic monitoring, stealth C2 operations, TOR proxy services, and wireless exploitation techniques.
 │   │   ├── ⚛️ quantum  
-│   │   │   • Experimental modules leveraging quantum computing for secure and advanced operations.  
+│   │   │   • Experimental modules leveraging quantum computing for advanced operations.
 │   │   ├── 🔴 red_team_ops  
-│   │   │   • Offensive modules for social media attacks, brute force, deepfake techniques, malware deployment, OSINT, password cracking, phishing, recon, and victim analysis.  
+│   │   │   • Offensive modules: social media attacks, brute‑force, deepfake techniques, malware deployment, OSINT, password cracking, phishing, recon, and victim analysis.
 │   │   ├── 🧬 strategies  
-│   │   │   • Advanced tactical frameworks based on hyperdimensional and neuroplasticity concepts.  
+│   │   │   • Advanced tactical frameworks based on hyperdimensional and neuroplasticity concepts.
 │   │   ├── 🏋️‍♂️ trainers  
-│   │   │   • Dedicated modules for adversarial and federated learning model training.  
+│   │   │   • Modules for adversarial and federated learning model training.
 │   │   └── 🚂 training_pipeline  
-│   │       • Orchestrates end‑to‑end data flow and model training routines (e.g., Nmap and SQLMap pipelines).  
+│   │       • Orchestrates end‑to‑end data flow and model training routines (e.g., Nmap and SQLMap pipelines).
 │   ├── 🌐 api  
-│   │   • Exposes system functionalities via secure endpoints.  
+│   │   • RESTful services exposing system functionalities.
 │   │   ├── 🛠️ middleware  
-│   │   │   • Manages API security, error handling, input validation, and rate limiting.  
+│   │   │   • Manages API security, error handling, input validation, and rate limiting.
 │   │   ├── 📊 monitoring  
-│   │   │   • Tracks API health, performance metrics, and uptime.  
+│   │   │   • Tracks API health, performance metrics, and uptime.
 │   │   └── 🛣️ routes  
-│   │       • Organizes API endpoints for various system operations.  
+│   │       • Organizes API endpoints for system operations (bounty, exploit, intelligence, scanning).
 │   ├── 💾 cache  
-│   │   • Provides caching capabilities via Memcached and Redis to enhance performance.  
+│   │   • Provides caching via Memcached and Redis to boost performance.
 │   ├── 🏛️ core  
-│   │   • The foundational backbone, including architecture, exception handling, database migrations, core models, and orchestration.  
+│   │   • The foundational backbone, including system architecture, custom exceptions, migrations, core models, orchestration, security, self‑healing, and utilities.
 │   │   ├── ⚠️ exceptions  
-│   │   │   • Custom exception handlers for system-wide error management.  
+│   │   │   • Custom error handlers for API, database, and tool integrations.
 │   │   ├── 🔄 migrations  
-│   │   │   • Scripts for database schema evolution and version control.  
+│   │   │   • Scripts and configurations for database schema evolution.
 │   │   ├── 📦 models  
-│   │   │   • Core data models and ORM definitions used throughout the system.  
+│   │   │   • Core data models and ORM definitions used throughout the system.
 │   │   ├── 🎛️ orchestration  
-│   │   │   • Coordinates complex integrations and workflows.  
-│   │   │   └── Submodules:  
-│   │   │       • deepseek_coder_v2_lite_instruct  
-│   │   │       • janus_pro_7b  
-│   │   │       • jarvis  
-│   │   │       • kokoro_82m  
-│   │   │       • openthinker_32b  
-│   │   │       • openthinker_7b  
-│   │   │       • pre_trained_models  – Repository of pre‑trained AI model weights and configurations  
-│   │   │       • qwen2_5_vl_7b_instruct  
-│   │   │       • qwen2_audio_7b_instruct  
-│   │   │       • qwq_32b  
-│   │   │       • securityllm  
+│   │   │   • Coordinates complex workflows and integrations.
+│   │   │       • Submodules:
+│   │   │           – deepseek_coder_v2_lite_instruct  
+│   │   │           – janus_pro_7b  
+│   │   │           – jarvis  
+│   │   │           – kokoro_82m  
+│   │   │           – openthinker_32b  
+│   │   │           – openthinker_7b  
+│   │   │           – pre‑trained_models (repository of pre‑trained AI model weights)  
+│   │   │           – qwen2_5_vl_7b_instruct  
+│   │   │           – qwen2_audio_7b_instruct  
+│   │   │           – qwq_32b  
+│   │   │           – securityllm  
 │   │   ├── 🔒 security  
-│   │   │   • Implements access control, authentication, encryption, input sanitization, and log analysis.  
+│   │   │   • Implements access control, authentication, encryption, input sanitization, and log analysis.
 │   │   ├── ♻️ self_healing  
-│   │   │   • Provides automated recovery, anomaly detection, and predictive maintenance capabilities.  
+│   │   │   • Automated recovery, anomaly detection, and predictive maintenance.
 │   │   └── 🛠️ utils  
-│   │       • Shared helper functions and utilities for common tasks.  
+│   │       • Shared helper functions and utilities.
 │   ├── 🩺 diagnostics  
-│   │   • Modules to perform system diagnostics and monitor operational parameters.  
+│   │   • Contains diagnostic utilities and monitoring tools.
 │   ├── 🔬 experiments  
-│   │   • A sandbox for testing new ideas and experimental features (e.g., quantum tests).  
+│   │   • A sandbox for testing new ideas and experimental features (e.g., quantum tests).
 │   ├── health  
-│   │   • Monitors the health of AI models, APIs, and databases.  
+│   │   • Monitors the health of AI models, APIs, and databases.
 │   └── ⏱️ tasks  
-│       • Manages scheduling and execution of background tasks across the system.  
+│       • Manages background task scheduling and worker processes.
+│
 ├── 📈 benchmarks  
-│   • Dedicated modules for performance, penetration, resource usage, and scalability benchmarking.  
+│   • Modules for performance, penetration, resource usage, and scalability benchmarking.
+│
 ├── ⚙️ config  
-│   • Contains configuration files for AI models, app settings, databases, logging, security, and tool integrations.  
+│   • Configuration files for AI models, application settings, databases, logging, security, and tool integrations.
 │   └── 🌍 env  
-│       • Environment-specific settings.  
-│       ├── 🛠️ dev  
-│       │   • Development configurations and secrets.  
-│       └── 🚀 prod  
-│           • Production-ready configurations and secure settings.  
+│       • Environment‑specific settings (e.g., dev and prod configurations).
+│
 ├── 🗄️ data  
-│   • Central repository for all project data, including backups, datasets, and pipelines.  
-│   ├── 🗃️ backup  
-│   │   • Archived backups and snapshots of critical data.  
-│   ├── 📊 datasets  
-│   │   • Structured datasets for training and analytics.  
-│   │   ├── 🔒 encrypted  
-│   │   │   • Securely encrypted datasets.  
-│   │   ├── 🧠 openthoughts_114k  
-│   │   │   • A large-scale training dataset (raw data and metadata).  
-│   │   └── 🌱 raw  
-│   │       • Unprocessed data collected from diverse sources.  
-│   ├── 🗄️ db  
-│   │   • Database management and connection scripts.  
-│   ├── 🧨 exploits  
-│   │   • Repository for exploit modules and offensive techniques.  
-│   ├── 🔄 migrations  
-│   │   • Data migration files for schema version management.  
-│   ├── 🎯 payloads  
-│   │   • Strategies for payload generation and encoding.  
-│   ├── 🛤️ pipeline  
-│   │   • End‑to‑end pipelines for data ingestion, processing, and storage.  
-│   └── 📝 wordlists  
-│       • Comprehensive wordlists for brute-forcing, discovery, and enumeration tasks.  
+│   • Central repository for all project data: backups, datasets, databases, exploits, payloads, pipelines, and wordlists.
+│   ├── backup  
+│   │   • Archived backups and snapshots of critical data.
+│   ├── datasets  
+│   │   • Structured datasets for training and analytics.
+│   │   ├── encrypted  
+│   │   │   • Securely encrypted datasets.
+│   │   ├── openthoughts_114k  
+│   │   │   • Large‑scale training data.
+│   │   │       ├── data  
+│   │   │       │   • Contains training parquet files.
+│   │   │       └── metadata  
+│   │   │           • Contains metadata parquet files.
+│   │   └── raw  
+│   │       • Unprocessed data from various sources.
+│   ├── db  
+│   │   • Database initialization and connection scripts.
+│   ├── exploits  
+│   │   • Repository for exploit modules and offensive techniques.
+│   ├── migrations  
+│   │   • Data migration scripts for schema evolution.
+│   ├── payloads  
+│   │   • Modules and strategies for payload generation and encoding.
+│   ├── pipeline  
+│   │   • End‑to‑end pipelines for data ingestion, processing, and storage.
+│   └── wordlists  
+│       • Comprehensive wordlists for brute‑force, discovery, and enumeration.
+│
 ├── 🚀 deployment  
-│   • Contains configurations and scripts for deploying the project.  
-│   ├── 🐳 docker  
-│   │   • Docker setups for containerizing backend and frontend services.  
-│   └── ☸️ kubernetes  
-│       • Kubernetes manifests for scalable, container-orchestrated deployments.  
+│   • Deployment configurations and scripts.
+│   ├── docker  
+│   │   • Container configurations for backend and frontend services.
+│   │   ├── backend  
+│   │   │   • Docker Compose and build files for the backend.
+│   │   └── frontend  
+│   │       • Docker Compose and build files for the frontend.
+│   ├── kubernetes  
+│   │   • Manifests for scalable, container‑orchestrated deployments.
+│   └── README  
+│       • Documentation for deployment procedures.
+│
 ├── 📖 docs  
-│   • Project documentation, including API references, deployment guides, and developer instructions.  
+│   • Project documentation including API references, deployment guides, and developer instructions.
+│
 ├── 🎨 frontend  
-│   • User interface components and client-side applications.  
-│   ├── 🖥️ cli  
-│   │   • Command Line Interface tools for interacting with the system (includes other CLIs and tool CLIs).  
-│   ├── 🖌️ gui  
-│   │   • Graphical User Interface applications for monitoring and control.  
-│   └── 🌐 web_ui  
-│       • Web‑based dashboards and interfaces for real‑time interaction.  
+│   • User interface components and client‑side applications.
+│   ├── cli  
+│   │   • Command‑line interfaces for system interaction.
+│   │   ├── Other_CLIs  
+│   │   │   • Additional CLI tools.
+│   │   └── Tool_CLIs  
+│   │       • Wrappers for external CLI integrations.
+│   ├── gui  
+│   │   • Graphical user interfaces for monitoring, control, and visualization.
+│   └── web_ui  
+│       • Web‑based dashboards and interactive interfaces.
+│           ├── api  
+│           │   • Web API components for feedback and telemetry.
+│           ├── components  
+│           │   • Reusable UI components (accessibility, collaboration, user management).
+│           ├── pages  
+│           │   • Web page modules.
+│           └── styles  
+│               • CSS styles and related resources.
+│
 ├── 🤖 .github  
-│   • GitHub workflows and dependency management configurations.  
+│   • GitHub workflows and CI/CD configurations (Dependabot, CI, CD, security scans).
+│
 ├── 📜 logs  
-│   • Centralized logging for system events and log management documentation.  
+│   • Central repository for system log files and log management documentation.
+│
 ├── 🔌 plugins  
-│   • Extendable plugins for adding custom features and integrations.  
-│   └── (Subfolder: tools_plugin)  
+│   • Extendable plugins for custom features and integrations.
+│   └── Tools_Plugin  
+│       • Specific plugins for integrating external tools.
+│
 ├── 🧪 sandbox  
-│   • A controlled environment for testing experimental features and ideas.  
+│   • A controlled environment for testing experimental features and prototypes.
+│
 ├── ⚙️ scripts  
-│   • Utility scripts for backup, deployment, setup, and system updates.  
+│   • Utility scripts for backup, deployment, setup, and system updates.
+│
 ├── 🔐 secret  
-│   • Secure storage for encrypted secrets and credentials.  
-│   └── 📂 data  
-│       • Organized sensitive configuration data for backend, frontend, and tool integrations.  
+│   • Secure storage for encrypted secrets and credentials.
+│   └── data  
+│       • Sensitive configuration data organized by backend, frontend, and tools.
+│
 ├── 🧪 tests  
-│   • Comprehensive test suites (unit and integration) to ensure system stability.  
-│   └── (Subfolders: ai_engine, api, etc.)  
+│   • Comprehensive test suites (unit, integration, etc.) to ensure system stability.
+│   ├── ai_engine  
+│   │   • Tests for AI engine modules.
+│   ├── api  
+│   │   • Tests for API endpoints and routes.
+│   └── (Other test modules as needed)
+│
 └── 🛠️ tools  
-    • Integrations and wrappers for external security and hacking tools.  
+    • Integrations and wrappers for external security and hacking tools.
     ├── ☁️ cloud  
-    │   • Interfaces for AWS, Azure, and other cloud services.  
+    │   • Interfaces for AWS, Azure, and other cloud services.
     ├── 🔐 crypto_stego  
-    │   • Tools for encryption and steganography operations.  
+    │   • Tools for encryption and steganography operations.
     ├── 🗄️ database  
-    │   • Wrappers for interacting with SQL and NoSQL databases.  
+    │   • Wrappers for SQL and NoSQL database interactions.
     ├── 🕵️‍♂️ evasion  
-    │   • Modules implementing stealth and evasion techniques.  
+    │   • Modules implementing stealth and evasion techniques.
     ├── 💣 exploitation  
-    │   • Tools for automating exploit discovery and deployment.  
+    │   • Tools for automating exploit discovery and deployment.
     ├── 🔍 fuzzing  
-    │   • Fuzz testing frameworks and integration tools.  
+    │   • Fuzz testing frameworks and integration tools.
     ├── 🎮 gpu  
-    │   • GPU‑accelerated utilities for rapid password cracking.  
+    │   • GPU‑accelerated utilities for rapid password cracking.
     ├── 💻 hardware  
-    │   • Interfaces for hardware‑based analysis and exploitation.  
+    │   • Interfaces for hardware‑based analysis and exploitation.
     ├── 🕵️‍♀️ identify  
-    │   • Tools for OS fingerprinting and system identification.  
+    │   • Tools for OS fingerprinting and system identification.
     ├── 🔍 information_gathering  
-    │   • Comprehensive OSINT and reconnaissance modules.  
+    │   • Comprehensive OSINT and reconnaissance modules.
     ├── 📡 iot  
-    │   • Specialized tools for analyzing and exploiting IoT devices.  
+    │   • Specialized tools for analyzing and exploiting IoT devices.
     ├── 🛠️ other_tools  
-    │   • Additional custom integrations and wrappers for miscellaneous tools.  
+    │   • Custom integrations and wrappers for miscellaneous tools.
     ├── 🔑 passwords  
-    │   • Utilities for brute‑forcing and cracking passwords.  
+    │   • Utilities for brute‑forcing and cracking passwords.
     ├── 🔓 post_exploitation  
-    │   • Modules for post‑compromise operations and credential extraction.  
+    │   • Modules for post‑compromise operations and credential extraction.
     ├── ♻️ recovery  
-    │   • Data recovery and forensic analysis utilities.  
+    │   • Data recovery and forensic analysis utilities.
     ├── 🔎 reverse_engineering  
-    │   • Integrations for disassembly and reverse‑engineering (Ghidra, IDA Pro, etc.).  
+    │   • Integrations for disassembly and reverse‑engineering (e.g., Ghidra, IDA Pro).
     ├── 📡 rfid  
-    │   • Tools for RFID analysis and interfacing.  
+    │   • Tools for RFID analysis and interfacing.
     ├── 📡 sdr  
-    │   • Software‑defined radio analysis modules.  
+    │   • Software‑defined radio analysis modules.
     ├── 📱 smartphones  
-    │   • Security assessment tools for mobile devices.  
+    │   • Security assessment tools for mobile devices.
     ├── 🕵️‍♀️ sniffing_spoofing  
-    │   • Network sniffing and spoofing tool integrations.  
+    │   • Integrations for network sniffing and spoofing.
     ├── 👥 social_engineering  
-    │   • Modules for executing social engineering campaigns.  
+    │   • Modules for executing social engineering campaigns.
     ├── 📞 voip  
-    │   • Tools for exploiting and securing VoIP systems.  
+    │   • Tools for exploiting and securing VoIP systems.
     ├── 🔍 vulnerability  
-    │   • Vulnerability scanning and assessment utilities.  
+    │   • Vulnerability scanning and assessment utilities.
     ├── 🌐 web  
-    │   • Integrations for web application security and testing tools.  
+    │   • Integrations for web application security and testing tools.
     └── 📡 wireless  
-        • Tools for wireless network analysis and penetration testing.
+          • Tools for wireless network analysis and penetration testing.
 ```
 </details>
 

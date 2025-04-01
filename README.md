@@ -464,15 +464,73 @@
 
 ```mermaid
 graph TD
-    A[User Input] -->|CLI/GUI/Voice| B(Orchestration Engine)
-    B --> C[AI Model Swarm]
-    B --> D[Agent Network]
-    C -->|Exploit Generation| E[Quantum C2]
-    D -->|Stealth Ops| F[Polymorphic Payloads]
-    E --> G[Target]
-    F --> G
-    style A fill:#ff0000,stroke:#000
-    style G fill:#00ff00,stroke:#000
+    %% Phase 1: Initialization
+    subgraph Initialization
+        A["User Input<br>CLI, GUI, Web, Voice"] -->|Commands| B["Command Parser<br>launcher.py"]
+        B --> C["Config Loader<br>utils/config_loader.py"]
+        C --> D["AI Model Activation<br>Gemma 3 (gemma_3.py),<br>QWQ 32B (qwq_32b.py),<br>DeepSeek_Coder_V2, etc."]
+        D --> E["Agent Activation<br>19 Agents: Browser (agent_browser.py),<br>Network (agent_network.py),<br>Exploitation (agent_exploitation.py), etc."]
+        E --> F["Security Setup<br>Zero Trust (access_control.py),<br>Kyber-1024 (encryption.py),<br>Kill Switch (kill_switch.py)"]
+    end
+
+    %% Phase 2: Planning and Intelligence Gathering
+    subgraph Planning_and_Intelligence
+        G["Planning and Intelligence"] --> H["Input Analysis<br>Gemma 3 (hacker_ai.py),<br>QWQ 32B (decision_engine.py),<br>SecurityLLM (securityllm.py)"]
+        G --> I["Reconnaissance<br>Network Agent (nmap_wrapper.py),<br>OSINT Agent (theharvester_wrapper.py),<br>Dark Web Agent (agent_darkweb.py)"]
+        G --> J["Strategy Formulation<br>Cyber Kill Chain (recon_engine.py),<br>Quantum Entropy (quantum_entropy_generator.py)"]
+        G --> K["Tool/Model Selection<br>3,200+ Kali Tools (tool_orchestrator.py),<br>Openthinker 7B/32B (openthinker_32b.py)"]
+        H --> I --> J --> K
+    end
+
+    %% Phase 3: Execution and Attack Orchestration
+    subgraph Execution_and_Attack
+        L["Execution and Attack"] --> M["Recon Execution<br>Network Agent (scanner_nmap.py),<br>Browser Agent (burpsuite_wrapper.py)"]
+        L --> N["Exploit Delivery<br>DeepSeek_Coder_V2 (exploit_generator.py),<br>Openthinker (exploit_chainer.py),<br>Polymorphic Payloads (polymorphic_rootkit_generator.py)"]
+        L --> O["Multi-Agent Orchestration<br>Phishing Agent (phishing_ai.py),<br>Red Team Agent (agent_red_team.py),<br>Swarm (swarm_engine.py), Cloud (agent_cloud.py)"]
+        L --> P["Specialized Operations<br>Janus_Pro_7B (janus_pro_7b.py - Reverse Eng),<br>Qwen2_5_VL_7B (qwen2_5_vl_7b.py - Deepfake),<br>Fuzzing (ai_fuzzing.py)"]
+        M --> N --> O --> P
+    end
+
+    %% Phase 4: Real-Time Feedback and Adaptation
+    subgraph Feedback_and_Adaptation
+        Q["Feedback and Adaptation"] --> R["Feedback Delivery<br>CLI (cli_logger.py), GUI (dashboard.py),<br>TTS (kokoro_tts_82m.py), Telemetry (telemetry_handler.py)"]
+        Q --> S["Result Analysis<br>Gemma 3 (analytics.py),<br>QWQ 32B (meta_learning.py),<br>Janus_Pro_7B (janus_pro_7b.py)"]
+        Q --> T["Forensic/Stealth Analysis<br>Forensics Agent (agent_forensics.py),<br>Stealth Ops (agent_stealth.py)"]
+        R --> S --> T
+    end
+
+    %% Phase 5: Defensive Response and Mitigation
+    subgraph Defensive_Response
+        U["Defensive Response"] --> V["Threat Detection<br>SecurityLLM (threat_mapper.py),<br>Response Agent (agent_response.py)"]
+        U --> W["Countermeasures<br>IR Automation (ir_automation.py),<br>Honeytokens (honeytoken_generator.py)"]
+        U --> X["Self-Healing<br>Predictive Recovery (self_heal_system.py),<br>Health Monitor (health_monitor.py)"]
+        V --> W --> X
+    end
+
+    %% Phase 6: Reporting and Continuous Evolution
+    subgraph Reporting_and_Evolution
+        Y["Reporting and Evolution"] --> Z["Report Generation<br>Vulnerabilities, Attack Chains,<br>Mitigations (report_generator.py)"]
+        Y --> AA["Data Archiving/Training<br>Datasets (database.py),<br>Federated Learning (federated.py)"]
+        Y --> AB["System Evolution<br>Optimization (quantum_optimizer.py),<br>Tool/AI Updates (plugin_manager.py)"]
+        Z --> AA --> AB
+    end
+
+    %% Connections Between Phases
+    Initialization -->|Config & Models| Planning_and_Intelligence
+    Planning_and_Intelligence -->|Recon & Strategy| Execution_and_Attack
+    Execution_and_Attack -->|Attack Results| Feedback_and_Adaptation
+    Feedback_and_Adaptation -->|Analysis Data| Defensive_Response
+    Defensive_Response -->|Mitigation Outcomes| Reporting_and_Evolution
+
+    %% Feedback Loops
+    T -->|Dynamic Strategy Adjustment| G
+    X -->|Mitigation Feedback| Q
+    AA -->|Model Updates| D
+    AB -->|Continuous Updates| B
+
+    %% Styling
+    classDef phase fill:#f9f,stroke:#333,stroke-width:2px
+    class B,G,L,Q,U,Y phase
 ```
 
 ---

@@ -54,6 +54,7 @@
 - 🔐 Quantum-grade encryption (Kyber-1024 + AES-256-GCM)
 - 🧠 Self-evolving AI models (32B+ parameter agents)
 - 💻 Multi-interface control (CLI, Web UI, Voice, API)
+
 ```
 
 ---
@@ -120,7 +121,7 @@
 <summary>Expand to View Full Structure</summary>
   
 ```bash
-# (Your project structure details here)
+
 ```
 </details>
 
@@ -268,6 +269,9 @@ Dominate 😈 Adapt 🕵️‍♂️ Evolve 🧠💀 Engage the Beast or Be Cons
 ```markdown
  𝕋𝕙𝕚𝕤 𝕚𝕤 𝕟𝕠𝕥 𝕥𝕙𝕖 𝕖𝕟𝕕. 𝕀𝕥'𝕤 𝕥𝕙𝕖 𝕓𝕖𝕘𝕚𝕟𝕟𝕚𝕟𝕘. Ready to hack the future? Join our cyberwarfare legion 💀 
 ```
+## 📬 Contact
+
+    guragainbhanu802@gmail.com  
 
 ---
 

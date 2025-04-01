@@ -342,8 +342,6 @@
 │       │   • Reusable UI components.  
 │       ├── 📜 **js**  
 │       │   • Client-side logic.  
-│       ├── 📄 **pages**  
-│       │   • Web page placeholders.  
 │       ├── 🎨 **styles**  
 │       │   • CSS for stealth and usability.  
 │       └── 🖌️ **templates**  

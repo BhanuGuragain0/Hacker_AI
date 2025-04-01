@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <h1 align="center">💀 Hacker_AI: Autonomous Cyberwarfare Platform 💀</h1>
+  <h1 align="center">💀 Hacker_AI Autonomous Cyberwarfare Platform 💀</h1>
   <h3 align="center"><code>Developed by Bhanu Guragain (Shadow@Bh4nu) | BSc Ethical Hacking & Cybersecurity, Coventry University</code></h3>
 </p>
 
@@ -231,7 +231,7 @@ python3 core/model_serving/kokoro_tts_82m/kokoro_tts_82m.py --listen
 
 ---
 
-## 📜 **License: The Unholy Pact**
+## 📜 **License**
 ```diff
 - This is NOT your typical MIT License. By using Hacker_AI, you agree to:
 + 1. No law enforcement/military use
@@ -242,12 +242,8 @@ python3 core/model_serving/kokoro_tts_82m/kokoro_tts_82m.py --listen
 
 <p align="center">
   <h2 align="center">💀 JOIN THE DARK ORDERS 💀</h2>
-  <p align="center">
-    <a href="mailto:guragainbhanu802@gmail.com"></a>
-  </p>
 </p>
 
----
 
 ## THE MANIFESTO
 
@@ -279,5 +275,4 @@ Dominate 😈 Adapt 🕵️‍♂️ Evolve 🧠💀 Engage the Beast or Be Cons
   <strong>🔥🕵️‍♂️ Hacker_AI by Shadow@Bh4nu 😈<br>💀 Victory or Death! 💀</strong><br>
 </p>
 
----
 

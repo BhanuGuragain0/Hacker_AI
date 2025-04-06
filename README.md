@@ -33,10 +33,10 @@
 <p align="center" style="font-family: 'Courier New', monospace; color: #FF4500;">
   <em>
     
-    ⚡ Forged in the dark labs of Coventry University, Hacker_AI is the ultimate cyberwar badass. 🕶️💣 Armed with 
-    3,200+ Kali Linux tools 🛠️🐉, AI-powered exploit automation 🤖💥, and quantum‑grade stealth ⚛️🛡️, it tears 
-    through XDR, SIEM, EDR, and PQC 🔍🔥🔒⚡ like butter. 🧈🔪 Zero day expert 🕳️🎯, post hack domination 🏴‍☠️🚀, and 
-    auto attack chains 🔗🤖 win or wipe out. 💀🏆 No chill. No mercy. 😈🔥
+    ⚡ Forged in the dark labs of Coventry University, Hacker_AI is the ultimate cyberwar badass. 🕶️💣 
+    Armed with 3,200+ Kali Linux tools 🛠️🐉, AI-powered exploit automation 🤖💥, and quantum‑grade 
+    stealth ⚛️🛡️, it tears through XDR, SIEM, EDR, and PQC 🔍🔥🔒⚡ like butter. 🧈🔪 Zero day expert 🕳️🎯,
+    post hack domination 🏴‍☠️🚀, and auto attack chains 🔗🤖 win or wipe out. 💀🏆 No chill. No mercy. 😈🔥
     
   </em>
 </p>

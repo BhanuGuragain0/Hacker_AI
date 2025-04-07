@@ -58,9 +58,12 @@
 **For**:  
 - Advanced red team simulations  
 - Cybersecurity research  
-- AGI-driven exploit development  
+- AGI-driven exploit development
 
-🔥 **"We don’t navigate. We fucking own the grid."** 🔥  
+<p align="center">
+<strong>🔥💀 We don’t navigate. We fucking own the grid. 🔥💀</strong>
+</p>
+
 
 ---
 

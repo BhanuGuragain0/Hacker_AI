@@ -55,7 +55,34 @@
 
 ---
 
-## 🌟 **Killer Features** 🚀  
+## 🌟 **Key Features** 🚀  
+Here's what makes Hacker_AI a cyberwarfare god:  
+
+```mermaid
+mindmap
+  root((Hacker_AI<br>Features))
+    (Quantum Security)
+      (PQC Algorithms)
+      (Entropy Generation)
+      (Key Management)
+    (AI Autonomy)
+      (Multi-Agent Systems)
+      (LLM Integration)
+      (RL Adaptation)
+    (Advanced Evasion)
+      (Morphogenetic Code)
+      (Polymorphic Payloads)
+      (Stealth Techniques)
+    (Next-Gen Interfaces)
+      (Voice Control)
+      (AR Visualization)
+      (Haptic Feedback)
+    (Comprehensive Tooling)
+      (Kali Integration)
+      (Custom Exploits)
+      (Payload Generation)
+```
+
 Here’s why Hacker_AI is a cyber god:  
 - ⚛️ **Quantum Payloads**: Unbreakable chaos bombs 💣  
 - 🎭 **Morphogenic Code**: Mutates in <5s to ghost defenses 👻  
@@ -143,38 +170,8 @@ Hacker_AI is a modular, quantum-charged beast engineered for red team supremacy.
 ### **Architecture Flow** (ASCII-Style)  
 <div align="center">
   <pre style="color: #00ff00; background-color: #1a1a1a; padding: 10px; border-radius: 5px;">
-+--------------------------------------+
-| User Interfaces (CLI, Voice, AR, Web)|
-+--------------------------------------+
-            |
-            v
-+--------------------------------------+
-| API Gateway                          |
-| api/v1/web_api_router.py             |
-+--------------------------------------+
-            |
-            v
-+--------------------------------------+
-| Microservices                        |
-| backend/core/services/               |
-+--------------------------------------+
-           /|\
-          / | \
-         /  |  \
-+--------+  |   +--------+
-| AI Models |   | Quantum Engine |
-| backend/core/ai/models/ | | backend/core/ai/quantum_models/ |
-+--------+  |   +--------+
-           |
-+--------+
-| Database & Cache |
-| data/database/ & backend/caching/ |
-+--------+
-           |
-+--------+
-| Security Modules |
-| backend/core/security/ |
-+--------+
+    
+
   </pre>
 </div>
 

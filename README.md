@@ -83,7 +83,7 @@ mindmap
       (Payload Generation)
 ```
 
-Here’s why Hacker_AI is a cyber god:  
+### **Here’s why Hacker_AI is a cyber god:**
 - ⚛️ **Quantum Payloads**: Unbreakable chaos bombs 💣  
 - 🎭 **Morphogenic Code**: Mutates in <5s to ghost defenses 👻  
 - 🎙️ **Voice Control**: Run ops hands-free with NLP ⚙️  

@@ -1,5 +1,4 @@
 # GANGA Offensive Ops Hacker ASI - Dependencies
-# Generated based on imports from launcher.py
 
 # Core Python packages
 aiohttp>=3.8.0

@@ -5,8 +5,7 @@
 </p>
 <div align="center">
   <pre style="color: #FF2D00; font-size: 14px; text-align: center;">
-  <h1>🧑‍💻 <code>GANGA Offensive Ops</code> 💀</h1>
-   It Will Operational from November 2025 in gangaoffensiveops.com.np 
+  <h1>🧑‍💻 <code>It Will Operational from November 2025 in gangaoffensiveops.com.np </code> 💀</h1>
   </pre>
 </div>
 
